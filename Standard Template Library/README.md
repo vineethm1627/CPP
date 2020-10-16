@@ -1,6 +1,6 @@
 # Course Topics
 
-S.No. | Topic Name| Status | Date |
+S.No. | Topic Name| Status | Date Completed |
 ------|-----------|--------|------|
 1 | Introduction | not done | |
 2 | Generic Programming in C++ | not done | |
