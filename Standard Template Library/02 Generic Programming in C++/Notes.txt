@@ -1,0 +1,97 @@
+- generic means could work with any datatype.
+- same function could work on various datatypes.
+- only needs to know how to compare the various datatypes.
+
+Generic programming using templates could be implemented at 2 levels:
+    1) Algorithm
+    2) Container
+
+Types of Containers : 
+    Note : All of these containers are generic.
+
+    1) Sequence Containers
+        implement data structures which can be accessed in a sequential manner.
+
+        - vector
+        - list (doubly linked list)
+        - deque (double ended queue ; insertion and deletions at both ends not in the middle)
+        - arrays 
+        - forward list (singly linked list)
+    
+    2) Container Adaptors
+        provide a different interface for sequential containers.
+        here the underlying datastructure is sequential.
+        but you cannot access all the elements sequentially.
+        ex : stack can be built using array, vector, forward list but it gives access to top element only.
+        ie. there is a specific interface to use stack like push, pop etc.
+
+        - queue
+        - priority queue (heap datastructure using array)
+        - stack 
+
+    3) Associative Containers
+        implement sorted datastructures that can be quickly searched O(logn)
+        data is stored in sorted order
+        ex: binary search trees, red-black trees
+
+        - set
+        - multiset
+        - map
+        - multimap
+
+    4) Unordered Associative Containers
+        implement unordered datastructures that can be quickly searched
+        use when relative ordering is not relevant.
+        ex: hashmap mapping between key and values.
+        if you want to bill items then the order of items doesn't matter, you just need to sum the prices.
+
+        - unordered set
+        - unordered multiset
+        - unordered map
+        - unordered multimap
+
+Types of Iterators :
+    iterators is an entitiy that helps us to access the data within a container with certain restrictions.
+    iterate over container ex: map, list, vector, map, tree etc.
+    so powerful that it could traverse trees and lists akin to arrays.
+
+    1) Input iterator :
+        an entity through which you can read data from container and move ahead.
+        read only
+        ex: keyboard
+
+    2) Output iterator :
+        an entity through which you can write into the container and move ahead.
+        write only.
+        ex: printer
+
+    3) Forward iterators : (commonly used)
+        iterator with functionalities of input and output iterator in single direction.
+        ex: singly linked list (forward list)
+
+    4) Bidirectional iterators :
+        forward iterator that can move in both directions.
+        ex: doubly linked list (list)
+
+    5) Random Access iterators :
+        iteratoir that can read/write in both directions and also can take jumps.
+        ex: arrays, vectors.
+
+        Note : It won't be possible in list.
+
+Why learn Iterators ?
+    we want to make generic Algorithms with freedom from underlying datastructure.
+
+    - we made search() function to work on all the datatypes using "template".
+    - we can make search() function to work on all the container types using "iterators".
+
+
+
+
+
+
+
+
+
+
+
