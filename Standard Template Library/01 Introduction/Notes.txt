@@ -1,0 +1,34 @@
+What is STL ?
+
+- set of classes and functions
+- vector<pair<int, string>> ... fancy looking codes in CP
+- provides a lot of inbuilt data structures and algorithms
+- Major components :
+    1) algorithms --> logic
+    2) containers --> to store the data
+    3) iterators and functors --> iterate over different buckets inside container.
+functor is a functional object --> covered in priority queue section
+
+Why to learn STL ?
+
+- easy to use
+- saves implementation time
+- passes all the test cases
+- optimized implementations
+ex :  for n < 10 sort may use bubble sort
+      for n >= 10 sort may use quick sort
+- reusability of code.
+
+Code : http://cb.lk/stlcode
+
+Course Structure :
+
+- Introduction
+- Containers 
+    1) Introduction
+    2) Examples
+    3) Sample Problems
+    4) Quiz
+- Problem Solving using STL
+
+
