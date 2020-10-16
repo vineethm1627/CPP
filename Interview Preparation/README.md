@@ -1,72 +1,74 @@
 # Course Topics
 
-- Introduction
-- Arrays
-- Character Arrays
-- Strings
-- 2D Arrays
-- Problem Solving on 2D Arrays
-- Challenges Arrays
-- Challenges Strings
-- Pointers
-- Dynamic Memory Allocation
-- Algorithms STL
-- Binary Search (Divide and Conquer)
-- Challenges Sorting and Searching
-- Generic Programming in C++
-- Vectors
-- Bit Manipulation
-- Challenges Bitmasking
-- Number Theory Basics
-- Challenges Number Theory
-- Recursion-1 Basics
-- Recursion-2 Implementation Based
-- Recursion-3 Quick Thinking
-- Recursion-4 Subset Based
-- Recursion-5 Backtracking
-- More Sorting Techniques and Problems
-- Challenges Recursion
-- Challenges Backtracking
-- Space Time Complexity
-- Object Oriented Programming Concepts
-- Linked Lists
-- Stacks
-- Queues
-- Deque
-- Challenges Stacks, Queue, Deque
-- Binary Tree
-- Binary Search Tree
-- Challenges Trees
-- Heaps
-- Challenges Heaps
-- Hashing/Hashtable
-- Problem Solving using Hashing
-- Tries
-- Challenges Hashing and Tries
-- Greedy Algorithms
-- Challenges Greedy Algorithms
-- Dynamic Programming
-- Challenges Dynamic Programming
-- Graph Algorithms
-- Challenges Graphs
-- String Matching Algorithms
-- Interactive Problems
-- Policy Based Data Structures (PBDS)
-- Real Life Example Splitwise Algorithm Design
-- Real life Project Sudoku Game
-- Recent Webinars
-- E-Book and Extra Questions
-- 1.Introductions
-- 2.Networks
-- 3.Web Technologies
-- 4.Operating Systems
-- 5.Puzzles
-- 6.Process Management
-- 7.Deadlocks
-- 8.Database Management Systems
-- 9.Memory Management
-- 10.System Design
-- Top Interview Questions
-- Student Interview Experiences
-- Live Sessions Non-Coding
-- Documents
+S.No. | Topic Name| Status | Date Completed|
+------|-----------|--------|------|
+1 | Introduction | not done | |
+2 | Arrays | not done | |
+3 | Character Arrays | not done | |
+4 | Strings | not done | |
+5 | 2D Arrays | not done | |
+6 | Problem Solving on 2D Arrays | not done | |
+7 | Challenges Arrays | not done | |
+8 | Challenges Strings | not done | |
+9 | Pointers | not done | |
+10 | Dynamic Memory Allocation | not done | |
+11 | Algorithms STL | not done | |
+12 | Binary Search (Divide and Conquer) | not done | |
+13 | Challenges Sorting and Searching | not done | |
+14 | Generic Programming in C++ | not done | |
+15 | Vectors | not done | |
+16 | Bit Manipulation | not done | |
+17 | Challenges Bitmasking | not done | |
+18 | Number Theory Basics | not done | |
+19 | Challenges Number Theory | not done | |
+20 | Recursion-1 Basics | not done | |
+21 | Recursion-2 Implementation Based | not done | |
+22 | Recursion-3 Quick Thinking | not done | |
+23 | Recursion-4 Subset Based | not done | |
+24 | Recursion-5 Backtracking | not done | |
+25 | More Sorting Techniques and Problems | not done | |
+26 | Challenges Recursion | not done | |
+27 | Challenges Backtracking | not done | |
+28 | Space Time Complexity | not done | |
+29 | Object Oriented Programming Concepts | not done | |
+30 | Linked Lists | not done | |
+31 | Stacks | not done | |
+32 | Queues | not done | |
+33 | Deque | not done | |
+34 | Challenges Stacks, Queue, Deque | not done | |
+35 | Binary Tree | not done | |
+36 | Binary Search Tree | not done | |
+37 | Challenges Trees | not done | |
+38 | Heaps | not done | |
+39 | Challenges Heaps | not done | |
+40 | Hashing/Hashtable | not done | |
+41 | Problem Solving using Hashing | not done | |
+42 | Tries | not done | |
+43 | Challenges Hashing and Tries | not done | |
+44 | Greedy Algorithms | not done | |
+45 | Challenges Greedy Algorithms | not done | |
+46 | Dynamic Programming | not done | |
+47 | Challenges Dynamic Programming | not done | |
+48 | Graph Algorithms | not done | |
+49 | Challenges Graphs | not done | |
+50 | String Matching Algorithms | not done | |
+51 | Interactive Problems | not done | |
+52 | Policy Based Data Structures (PBDS) | not done | |
+53 | Real Life Example Splitwise Algorithm Design | not done | |
+54 | Real life Project Sudoku Game | not done | |
+55 | Recent Webinars | not done | |
+56 | E-Book and Extra Questions | not done | |
+57 | Introductions | not done | |
+58 | Networks | not done | |
+59 | Web Technologies | not done | |
+60 | Operating Systems | not done | |
+61 | Puzzles | not done | |
+62 | Process Management | not done | |
+63 | Deadlocks | not done | |
+64 | Database Management Systems | not done | |
+65 | Memory Management | not done | |
+66 | System Design | not done | |
+67 | Top Interview Questions | not done | |
+68 | Student Interview Experiences | not done | |
+69 | Live Sessions Non-Coding | not done | |
+70 | Documents | not done | |
