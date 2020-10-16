@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// linear search to work on all datatypes
+// linear search to work on all datatypes : float, char, int, double, custom classes like array of Books etc.
 template<class T>
 int search(T arr[], int n, T key) {
     for(int i = 0; i < n; i++) {
