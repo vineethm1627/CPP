@@ -1,0 +1,72 @@
+# Course Topics
+
+- Introduction
+- Arrays
+- Character Arrays
+- Strings
+- 2D Arrays
+- Problem Solving on 2D Arrays
+- Challenges Arrays
+- Challenges Strings
+- Pointers
+- Dynamic Memory Allocation
+- Algorithms STL
+- Binary Search (Divide and Conquer)
+- Challenges Sorting and Searching
+- Generic Programming in C++
+- Vectors
+- Bit Manipulation
+- Challenges Bitmasking
+- Number Theory Basics
+- Challenges Number Theory
+- Recursion-1 Basics
+- Recursion-2 Implementation Based
+- Recursion-3 Quick Thinking
+- Recursion-4 Subset Based
+- Recursion-5 Backtracking
+- More Sorting Techniques and Problems
+- Challenges Recursion
+- Challenges Backtracking
+- Space Time Complexity
+- Object Oriented Programming Concepts
+- Linked Lists
+- Stacks
+- Queues
+- Deque
+- Challenges Stacks, Queue, Deque
+- Binary Tree
+- Binary Search Tree
+- Challenges Trees
+- Heaps
+- Challenges Heaps
+- Hashing/Hashtable
+- Problem Solving using Hashing
+- Tries
+- Challenges Hashing and Tries
+- Greedy Algorithms
+- Challenges Greedy Algorithms
+- Dynamic Programming
+- Challenges Dynamic Programming
+- Graph Algorithms
+- Challenges Graphs
+- String Matching Algorithms
+- Interactive Problems
+- Policy Based Data Structures (PBDS)
+- Real Life Example Splitwise Algorithm Design
+- Real life Project Sudoku Game
+- Recent Webinars
+- E-Book and Extra Questions
+- 1.Introductions
+- 2.Networks
+- 3.Web Technologies
+- 4.Operating Systems
+- 5.Puzzles
+- 6.Process Management
+- 7.Deadlocks
+- 8.Database Management Systems
+- 9.Memory Management
+- 10.System Design
+- Top Interview Questions
+- Student Interview Experiences
+- Live Sessions Non-Coding
+- Documents
