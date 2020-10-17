@@ -3,5 +3,10 @@
 - binary_search function will return a bool value stating whether
 the element is present or not.
 - lower_bound and upper_bound could be used to find the frequency of the element if present.
- 
+- by default the sort function sorts the array in ascending order.
+- sort(arr, arr + n, compare)
+- sort also takes a comparator function as a parameter.
+- comparator function tells the sort function on what basis to sort. (based on no. of digits / first character etc.)
+- this sort function now becomes very powerful as we now can do sorting based on custom conditions.
+
 
