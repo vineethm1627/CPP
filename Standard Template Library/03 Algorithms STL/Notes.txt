@@ -1,0 +1,7 @@
+- find function is used to find the address of the first occurence of the element.
+- binary_search function is only used when the array is sorted.
+- binary_search function will return a bool value stating whether
+the element is present or not.
+- lower_bound and upper_bound could be used to find the frequency of the element if present.
+ 
+
