@@ -9,4 +9,7 @@ the element is present or not.
 - comparator function tells the sort function on what basis to sort. (based on no. of digits / first character etc.)
 - this sort function now becomes very powerful as we now can do sorting based on custom conditions.
 
-
+- rotate(); to rotate the elements of a container about the middle element.
+- next_permutation(); lexographically next permutation of the elements.
+  ex: 1 2 3 --> next_permutation --> 1 3 2 --> next_permutation --> 2 1 3.
+  
