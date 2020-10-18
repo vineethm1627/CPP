@@ -1,0 +1,4 @@
+- for smallest element initialize it with + inf.
+- for largest element initialize it with - inf.
+- to represent inf in C++ use <climits>
+    macro : INT_MAX for smallest, INT_MIN for largest
