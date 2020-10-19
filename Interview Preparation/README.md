@@ -3,7 +3,7 @@
 S.No. | Topic Name| Status | Date Completed|
 ------|-----------|--------|------|
 1 | Introduction | done | 18 Oct 20 |
-2 | Arrays | not done | |
+2 | Arrays | done | 19 Oct 20 |
 3 | Character Arrays | not done | |
 4 | Strings | not done | |
 5 | 2D Arrays | not done | |
