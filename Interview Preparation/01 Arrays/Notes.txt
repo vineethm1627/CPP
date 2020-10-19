@@ -4,6 +4,19 @@
     macro : INT_MAX for smallest, INT_MIN for largest
 
 - max subarray sum.
-    Naive approach : O(n^3)
+    1) Naive approach : O(n^3)
         1) generate all the subarrays and their sums.
         2) finding the largest of n sums.
+
+    2) Cumulative sum : O(n^2)
+        // we have eliminated the loop to calculate the sum.
+        1) precompute the sums.
+        2) make cumulative sum array.
+            // sum till the last and add the current one.
+            // this array can be built in linear time.
+            csum[i] = csum[i - 1] + arr[i];
+            
+        3) we are basically finding the sum of subarray from index i to j:
+            sum(arr(i, j)) = csum[j] - csum[i - 1];
+
+        
