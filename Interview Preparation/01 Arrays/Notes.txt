@@ -9,7 +9,7 @@
         2) finding the largest of n sums.
 
     2) Cumulative sum : O(n^2)
-        // we have eliminated the loop to calculate the sum.
+        we have eliminated the loop to calculate the sum.
         1) precompute the sums.
         2) make cumulative sum array.
             // sum till the last and add the current one.
@@ -18,5 +18,24 @@
             
         3) we are basically finding the sum of subarray from index i to j:
             sum(arr(i, j)) = csum[j] - csum[i - 1];
+
+    3) Divide and Conquer approach : O(nlogn)
+        using recursive calls
+        T(n) = 2T(n/2) + Θ(n)
+        The above recurrence is similar to Merge Sort and can be solved either using Recurrence Tree method or Master method. It falls in case II of Master Method and solution of the recurrence is Θ(nLogn).
+
+        1) Divide the given array in two halves
+        2) Return the maximum of following three
+            a) Maximum subarray sum in left half (Make a recursive call)
+            b) Maximum subarray sum in right half (Make a recursive call)
+            c) Maximum subarray sum such that the subarray crosses the midpoint
+
+
+    4) Kadane's Algorithm : O(n)
+        The Kadane’s Algorithm for this problem takes O(n) time.
+        Therefore the Kadane’s algorithm is better than the Divide and Conquer approach, 
+        but this problem can be considered as a good example to show power of Divide and Conquer. 
+
+
 
         
