@@ -1,10 +1,11 @@
 #include <iostream>
+#include <climits>
 using namespace std;
 
 // O(n^3) naive approach
 void allSubarrays(int arr[], int n) {
     pair<int, int> ind;
-    int max_sum = 0, cur_sum = 0;
+    int max_sum = INT_MIN, cur_sum = 0;
     for(int i = 0; i < n; i++) {
         for(int j = i; j < n; j++) {
             cur_sum = 0;
