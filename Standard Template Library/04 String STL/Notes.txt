@@ -37,4 +37,8 @@ char *strtok(char *s, char *delimiter) :
         first call :  char *ptr = strtok(s);
                       cout << ptr; // prints Hello
         second call : ptr = strtok(NULL, " ");
-                      cout << ptr; // prints guys
+                      cout << ptr; // prints guysd
+Note : 
+ to extract the underlying char* object from the string object.
+ string str = "hello";
+ char *s = (char *)str.c_str();
