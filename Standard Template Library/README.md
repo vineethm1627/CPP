@@ -5,7 +5,7 @@ S.No. | Topic Name| Status | Date Completed |
 1 | Introduction | done | 17 Oct 20 |
 2 | Generic Programming in C++ | done | 17 Oct 20 |
 3 | Algorithms STL | done | 18 Oct 20 |
-4 | Strings STL | not done | |
+4 | Strings STL | done | 21 Oct 20 |
 5 | Vectors STL | not done | |
 6 | Lists and Forward Lists STL | not done | |
 7 | Stack and Queue STL | not done | |
