@@ -10,3 +10,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 3 | [Max Activity Selection](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/03%20Algorithms%20STL/activity_selection_max.cpp) | greedy, pair container | Easy | 18 Oct 20 |
 4 | [Max Subarray Sum](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/max_subarray_sum_divandconq_index.cpp) | div and conq, pair container | Medium | 19 Oct 20 |
 5 | [Key Sort Strings](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/04%20String%20STL/sort_tok_problem.cpp) | string tokenizer, sort, pair container | Medium | 21 Oct 20 |
+6 | [Very Big Sort](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/04%20String%20STL/Big_Sort.cpp) | string, sort, compare | Easy | 21 Oct 20 |
