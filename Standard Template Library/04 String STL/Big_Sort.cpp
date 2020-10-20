@@ -7,7 +7,7 @@ bool compare(string s1, string s2) {
     if(s1.length() == s2.length()) {
         return s1 < s2; // lewxographically.
     }
-    return s1.size() < s2.size();
+    return s1.size() < s2.size(); // .length() and .size() works the same.
 }
 
 void bigSort(string str[], int n) {
