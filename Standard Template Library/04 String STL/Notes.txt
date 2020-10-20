@@ -1,3 +1,17 @@
+VVIMP : 
+After inputting an integer always use cin.get() before inputting the next string.
+while inputting an integer the '\n' part remains and that is read by the cin getline which results in errors.
+
+ex : 
+int n;
+cin >> n;
+cin.get(); // omitting this line would lead to the skipping of the next string input.
+string s[n];
+for(int i = 0; i < n; i++) {
+    getline(cin, s[i]);
+}  
+
+
 String class:
 - advantage : provides an alternative for character array.
 - wraps the character array inside a string object.
