@@ -25,3 +25,16 @@ String class:
 
 - using cin for taking string input is not preferred as it omits the spaces in between.
 - using getline(cin, <str_name>); to take the input along with spaces
+
+char *strtok(char *s, char *delimiter) : 
+    - String tokenizer works with string.h and not string.
+    - so to make it work use #include <string.h>
+    - strtok returns a token on each subsequent call.
+    - on the first call, function should be passed with string argument for 's'.
+    - on subsequent calls, we should pass the string argument to the function as 'NULL'.
+
+    ex : char s[100] = "Hello guys this is vineeth";
+        first call :  char *ptr = strtok(s);
+                      cout << ptr; // prints Hello
+        second call : ptr = strtok(NULL, " ");
+                      cout << ptr; // prints guys
