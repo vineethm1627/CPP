@@ -22,3 +22,6 @@ String class:
 - iterators are defined inside the container class.
     ex : string::iterator it = s1.begin();
 - '::' is called the scope resolution operator.
+
+- using cin for taking string input is not preferred as it omits the spaces in between.
+- using getline(cin, <str_name>); to take the input along with spaces
