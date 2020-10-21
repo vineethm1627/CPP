@@ -1,0 +1,12 @@
+- character arrays init.
+    char a[100]; // giving the size of the array
+    char a[] = {'a', 'b', '\0'};
+    
+    each element consume 1 byte of space.
+
+    Note : It is recommended to end the array with a null character.
+
+- '\0' character has ASCII value : 0
+- to print the contents of the integer array we need a for loop.
+- no loop is needed for the character array.
+ 
