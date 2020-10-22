@@ -2,7 +2,7 @@
 
 S.No. | Topic Name| Status | Date Completed |
 ------|-----------|--------|----------------|
-1 | Basics of Problem Solving | not done | |
+1 | Basics of Problem Solving | done | 22 Oct 20 |
 2 | Getting Started with C++ | not done | |
 3 | Programming Fundamentals-1 | not done | |
 4 | Programming Fundamentals-2 | not done | |
