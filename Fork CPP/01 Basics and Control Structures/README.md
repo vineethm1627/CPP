@@ -2,13 +2,13 @@
 
 SNo. | Topic Name | Link | Data Completed |
 -----|------------|------|----------------|
-1 | Notations | [view](https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/) | not done |
-2 | Data Types | [view](https://www.geeksforgeeks.org/c-data-types/) | not done | 
-3 | Basic Input/Output | [view](http://www.geeksforgeeks.org/basic-input-output-c/) | not done |
-4 | header files | [view](http://www.cplusplus.com/forum/articles/10627/) | not done | 
-5 | bits/stdc++.h | [view](https://www.geeksforgeeks.org/bitsstdc-h-c/) | not done | 
-6 | namespaces | [view](https://www.geeksforgeeks.org/namespace-in-c/) | not done |
-7 | endl | [view](http://www.geeksforgeeks.org/endl-vs-n/) | not done |
+1 | Notations | [view](https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/) | done |
+2 | Data Types | [view](https://www.geeksforgeeks.org/c-data-types/) | done | 
+3 | Basic Input/Output | [view](http://www.geeksforgeeks.org/basic-input-output-c/) | done |
+4 | header files | [view](http://www.cplusplus.com/forum/articles/10627/) | done | 
+5 | bits/stdc++.h | [view](https://www.geeksforgeeks.org/bitsstdc-h-c/) | done | 
+6 | namespaces | [view](https://www.geeksforgeeks.org/namespace-in-c/) | done |
+7 | endl | [view](http://www.geeksforgeeks.org/endl-vs-n/) | done |
 8 | exceeding valid range of datatypes | [view](https://www.geeksforgeeks.org/happen-exceed-valid-range-built-data-types-c/) | not done |
 9 | error signals | [view](https://www.geeksforgeeks.org/program-error-signals/) | not done |
 10 | preprocessors | [view](http://www.geeksforgeeks.org/cc-preprocessors/) | not done |
