@@ -4,7 +4,7 @@ S.No. | Topic Name| Status | Date Completed|
 ------|-----------|--------|------|
 1 | Introduction | done | 18 Oct 20 |
 2 | Arrays | done | 19 Oct 20 |
-3 | Character Arrays | not done | |
+3 | Character Arrays | done | 22 Oct 20 |
 4 | Strings | not done | |
 5 | 2D Arrays | not done | |
 6 | Problem Solving on 2D Arrays | not done | |
