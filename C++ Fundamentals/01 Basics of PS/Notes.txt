@@ -1,0 +1,89 @@
+Brain teaser : Hour glass puzzle:
+    you have two hour glasses : a 7 mins one and a 11 mins one.
+    using just 2 hours glass, accuractely time 15 minutes
+
+Solution 1 :
+
+1) start with both the hour glasses parallely.
+2) once the 7 mins one gets over, start noting the timer.
+3) after 4 minutes the 11 mins one will get over.
+4) flip the 11 mins ones and again let the 11 mins countdown begin.
+5) end time will be when 11 mins are over.
+6) so total time measured is 15 mins (11 - 7) + 11 = 15.
+
+Solution 2 :
+
+1) start with both the hour glasses parallely. --> mark this as the starting time.
+2) once the 7 mins get over. flip it.
+3) once the 11 mins one gets over, out of 7 mins 4 mins would have gone down with 3 mins remaining.
+4) now flip the 7 mins one, this time 4 mins comes up and 3 mins goes down.
+5) hence by the end of the seond one : 11 mins + 4 mins = 15 mins.
+
+Solution 2 is better than solution 1 as we are only consuming 15 mins exactly contrary to 22 mins in the former case.
+
+So, moral of the story is Problem solving is always about optimizing the solution.
+
+Pseudocode :
+
+1) Human readable informal description of the algorithm or program
+2) language independent
+3) structure your code before writing it
+4) fastest way to verify
+5) a flowchart could easily be converted to pseudocode
+
+Pseudocode Language :
+
+1) input --> [read N]
+2) assignment --> [Sum <- 0]
+3) output --> [print Sum]
+4) if else --> [if i < N then .... end else then .... end]
+5) while loop --> [while i < n do ... end]
+6) exit --> [exit]
+
+Prime numbers pseudocode :
+
+    read n
+    i <- 2 
+    while(i < N) do
+        if N % i == 0
+        then 
+            print "not prime"
+            exit
+        end
+    i <- i + 1
+    end
+    print "prime"
+    exit
+
+Pattern pseudocode :
+
+pattern :
+1
+2 3
+4 5 6
+7 8 9 10
+
+observations :
+if n = 4 then print 4 rows
+print i numbers in the ith rows
+value of the number is linearly incremented
+
+pseudocode :
+
+read N
+row <- 1
+val <- 1
+col <- 1
+
+while row <= N do 
+    col <- 1
+    while col <= row do
+        print val
+        val <- val + 1
+        col <- col + 1
+    end
+print "\n"
+row < row + 1
+end
+exit
+
