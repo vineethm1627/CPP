@@ -10,3 +10,20 @@
 - to print the contents of the integer array we need a for loop.
 - no loop is needed for the character array.
  
+- cin doesn't input blank spaces, so use getline
+- cin.get() reads a single character.
+- put a loop to read the character till you get a new line '\n'
+
+cin.getline()  vs getline(cin) : 
+
+- cin.getline() --> arrays of character ie. C strings
+- getline(cin) --> c++ std::string ie. C++ strings
+
+The member function cin.getline() works with C strings (i.e. arrays of char) whereas the free function std::getline() works with C++ strings (i.e. std::string.) 
+You should not be using C strings at all when learning C++, 
+which means you should not be using cin.getline().
+
+std::getline() reads a string from an input stream up to some delimiter. The delimiter by default is '\n' and there's no reason to specify that third argument if
+you're just going to pass the newline character. It doesn't know or care what is contained in that string, other than checking for the delimiter. If you want to
+attempt to parse that string as an integer or a floating point value you can certainly do that after reading from the stream, but that's not std::getline()'s job. 
+It just reads a string.
