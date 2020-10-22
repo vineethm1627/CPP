@@ -87,3 +87,51 @@ row < row + 1
 end
 exit
 
+
+Brainteaser : Circular jail cell:
+
+there is a circular jail with 100 cells numbered 1-100.
+each cell has an inmate and the door is locked.
+one night the jailer gets drunk and starts running around the jail in circles
+in the first round he opens all the doors
+in the second round he visits every 2nd door(2, 4, 6 ...) and reverses the state. ie. open --> close and vice-versa
+in the third round he visits every 3rd door(3, 6, 9, ...) and reverses the state.
+...
+This continues for 100 rounds and exhausted the jailer falls down.
+
+How many prisoners found their doors open after 100 rounds ?
+
+Solution :
+
+door d will be open if the prisoner comes to the door odd number of times.
+ex door 12 --> round 1, 2, 3, 4, 6, 12 ie. 6 times. the door will be closed
+
+so we want to find those numbers which have odd number of divisors. 
+Note : these divisors occur in pairs.
+
+for perfect squares : ex 36 : 1, 2, 3, 4, 6, 9, 12, 18, 36 --> odd number of divisors
+                         here 6 will be paired with itself hence we obtain odd number of divisors
+
+So perfect squares in 1 to 100 : 1, 4, 9, 16, 25, 36, 49, 64, 81, 100.
+
+Therefore, these 10 doors will remain open after 100 rounds 
+
+
+Brainteaser : Infinite coins
+
+you are wearing a blindfold and thick gloves. An infinite number of coins are laid out before you on a table of infinite area.
+Someone tells you that, 20 of these coins are tails and rest all are heads. He says that if you can split the coins into 2 piles
+where the number of tails is same in both the piles, then you win all of the coins. 
+You are allowed to move the coins and to flip them over, but you can never tell what state a coin is currently in.
+
+How do you partition the coins so that you can win them all ?
+
+Solution : 
+
+1) pick any 20 coins
+2) in this set of 20 coins lets assume we have 0 <= x <= 20 tails.
+3) in the other set you have 20 - x tails.
+4) now flip these 20 coins, now you will obtain 20 - x tails.
+
+You can observe that the number of tails exactly equal in both the parts
+
