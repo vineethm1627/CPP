@@ -1,6 +1,6 @@
 # Useful Article Links
 
-SNo. | Topic Name | Link | Data Completed |
+SNo. | Topic Name | Link | Date Completed |
 -----|------------|------|----------------|
 1 | Notations | [view](https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/) | 22 Oct 20 |
 2 | Data Types | [view](https://www.geeksforgeeks.org/c-data-types/) | 22 Oct 20 | 
