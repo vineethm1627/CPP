@@ -5,7 +5,7 @@ course link [Fork CPP](https://practice.geeksforgeeks.org/batch/fork-cpp)
 
 Module No. | Topic Name | Status | Date Completed | Contest |
 -----------|------------|--------|----------------|---------|
-1 |Basics and Control Structures | not done |  | not done |
+1 |Basics and Control Structures | done | 28 Oct 20 | not done |
 2 | Arrays and Strings | not done |  | not done |
 3 | Pointers and Objects | not done |  | not done |
 4 | Vector and Pair | not done | | not done |
