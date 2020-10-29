@@ -1,1 +1,26 @@
+if(n & 1) {
+    cout << "The number is odd";
+}
+else {
+    cout << "It is even";
+}
 
+num & 1 = 1 if num is odd else it will be equal to 1
+
+& is a bitwise operator.
+it just checks the last bit ie. LSB(righmost bit).
+
+example:
+
+if num = 10 --> binary(10) --> 1010 & 1 --> 0.1 = 0 --> hence even
+if num = 5 --> binary(5) --> 101 & 1 --> 1.1 = 1 --> hence odd
+
+Logic :
+
+& is a bitwise operator so if you provide a decimal number, it will convert it into binary and will then perform 
+the operation.
+
+notation in binary :  ....16 8 4 2 1
+except 1 rest all the numbers are powers of 2 and hence even.
+sum of even numbers is always even.
+so all the odd numbers must have their LSB as 1 in binary notation.
