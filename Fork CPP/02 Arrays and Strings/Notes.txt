@@ -1,0 +1,30 @@
+Character arrays vs strings : 
+- A Character array is simply an array of Characters that can be terminated by null Character.
+- A String is a class which defines objects that can be represented as stream of characters.
+- Size of the Character array has to be allocated statically ie. more memory cannot be allocated at runtime if required.
+- Unused allocated memory gets wasted in case of Character array.
+- In Strings memory is allocated dynamically at runtime on demand.
+- As no memory is pre-allocated, no memory is wasted.
+- There is a threat of array decay in case of Character array.
+- As Strings are represented as objects, no array decay occurs.
+- Implementation of character array is faster than std:: string. Strings are slower when compared to implementation than character array.
+- Character array do not offer much inbuilt functions to manipulate strings. String class defines a number of functionalities which allow
+  manifold operations on strings.
+
+Dynamic Memory Allocation :
+- C Dynamic Memory Allocation can be defined as a procedure in which the size of a data structure (like Array) is changed during the runtime.
+- C provides some functions to achieve these tasks. There are 4 library functions provided by C defined under <stdlib.h> header file to 
+  facilitate dynamic memory allocation in C programming. They are:
+    malloc()
+    calloc()
+    free()
+    realloc()
+
+1) Malloc :
+    “malloc” or “memory allocation” method in C is used to dynamically allocate a single large block of memory with the specified size. 
+    It returns a pointer of type void which can be cast into a pointer of any form.
+    It initializes each block with default garbage value.
+
+    syntax: ptr = (cast-type*) malloc(byte-size)
+    example : int *ptr = (int*) malloc(100 * sizeof(int));
+    explanation : Since the size of int is 4 bytes, this statement will allocate 400 bytes of memory. And, the pointer ptr holds the address of the first byte in the allocated memory.
