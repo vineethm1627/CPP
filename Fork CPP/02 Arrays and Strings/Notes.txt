@@ -45,4 +45,17 @@ Dynamic Memory Allocation :
 
     syntax : free(ptr)
 
+4) realloc :
+    “realloc” or “re-allocation” method in C is used to dynamically change the memory allocation of a previously allocated memory.
+    In other words, if the memory previously allocated with the help of malloc or calloc is insufficient, realloc can be used to dynamically re-allocate memory. 
+    re-allocation of memory maintains the already present value and new blocks will be initialized with default garbage value.
+
+    syntax : ptr = realloc(ptr, newSize)
+    example : ptr = realloc(ptr, 10 * sizeof(int))
+    explanation : here ptr is reallocated with new size "newSize"
+
+    
+Note : 
+    If the space is insufficient, allocation fails and a NULL pointer is returned.
+    void pointer can be casted to any datatype pointer.
 
