@@ -37,5 +37,12 @@ Dynamic Memory Allocation :
     example : ptr = (float*) calloc(100, sizeof(float));
     explanation : This statement allocates contiguous space in memory for 25 elements each with the size of the float.
 
+3) free :
+    “free” method in C is used to dynamically de-allocate the memory. 
+    The memory allocated using functions malloc() and calloc() is not de-allocated on their own. 
+    Hence the free() method is used, whenever the dynamic memory allocation takes place. 
+    It helps to reduce wastage of memory by freeing it.
+
+    syntax : free(ptr)
 
 
