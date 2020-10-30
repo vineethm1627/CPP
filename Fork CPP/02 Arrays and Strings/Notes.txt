@@ -51,7 +51,7 @@ Dynamic Memory Allocation :
     re-allocation of memory maintains the already present value and new blocks will be initialized with default garbage value.
 
     syntax : ptr = realloc(ptr, newSize)
-    example : ptr = realloc(ptr, 10 * sizeof(int))
+    example : ptr = (int*)realloc(ptr, 10 * sizeof(int))
     explanation : here ptr is reallocated with new size "newSize"
 
     
