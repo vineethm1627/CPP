@@ -59,3 +59,19 @@ Note :
     If the space is insufficient, allocation fails and a NULL pointer is returned.
     void pointer can be casted to any datatype pointer.
 
+
+Converting Strings to Numbers in C++ :
+    Link : (https://www.geeksforgeeks.org/converting-strings-numbers-cc/)
+    Library/header file used : #include <sstream>
+    1) using stringstream class
+        string str = "12345";
+        stringstream ss(str);
+
+        int num = 0;
+        ss >> num; // stream the string object into int.
+
+        cout << num; // 12345 
+
+    2) using stoi.
+        int num = stoi(str);
+
