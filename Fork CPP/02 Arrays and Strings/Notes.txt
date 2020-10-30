@@ -20,7 +20,7 @@ Dynamic Memory Allocation :
     free()
     realloc()
 
-1) Malloc :
+1) malloc :
     “malloc” or “memory allocation” method in C is used to dynamically allocate a single large block of memory with the specified size. 
     It returns a pointer of type void which can be cast into a pointer of any form.
     It initializes each block with default garbage value.
@@ -28,3 +28,14 @@ Dynamic Memory Allocation :
     syntax: ptr = (cast-type*) malloc(byte-size)
     example : int *ptr = (int*) malloc(100 * sizeof(int));
     explanation : Since the size of int is 4 bytes, this statement will allocate 400 bytes of memory. And, the pointer ptr holds the address of the first byte in the allocated memory.
+
+2) calloc :
+    “calloc” or “contiguous allocation” method in C is used to dynamically allocate the specified number of blocks of memory of the specified type. 
+    It initializes each block with a default value ‘0’
+
+    syntax : ptr = (cast-type*)calloc(n, element-size)
+    example : ptr = (float*) calloc(100, sizeof(float));
+    explanation : This statement allocates contiguous space in memory for 25 elements each with the size of the float.
+
+
+
