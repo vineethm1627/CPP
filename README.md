@@ -13,3 +13,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 6 | [Very Big Sort](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/04%20String%20STL/Big_Sort.cpp) | string, sort, compare | Easy | 21 Oct 20 |
 7 | [Word Frequency](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/ss_wordFreq.cpp) | map, stringstream | Easy | 30 Oct 20 |
 8 | [Single occurence](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/single_occur.cpp) | bit, xor | Easy | 30 Oct 20 |
+9 | [count set bits](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/countSetBits.cpp) | bit, &, >> | Easy | 30 Oct 20 | 
