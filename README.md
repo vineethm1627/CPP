@@ -1,7 +1,7 @@
 # C++ Competitve Programming
 Collection of the codes of Coding Block and geeksforgeeks Courses : C++ Fundamentals &amp; C++ STL &amp; C++ Interview Preparation &amp; Fork CPP &amp; PPC-1
 
-## Progress
+## Important Questions
 
 S.No. | Question Name | Logic Used | Type | Date|
 ------|-----------------|------|---------| ----|
