@@ -17,3 +17,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 10 | [swap n bits binary](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/swap_nbits_binary.cpp) | bit, &, >>, xor | Hard | 30 Oct 20 |
 11 | [subset sum = k](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/subset_array_sum.cpp) | powerset, &, << | Medium | 31 Oct 20 |
 12 | [subsequences of given length](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/subseq_given_length.cpp) | powerset, set bits, &, << | Hard | 31 Oct 20 |
+13 | [min chars del anagram](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/char_del_anagrams.cpp) | map, abs difference | Medium | 31 Oct 20 |
