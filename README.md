@@ -18,3 +18,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 11 | [subset sum = k](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/subset_array_sum.cpp) | powerset, &, << | Medium | 31 Oct 20 |
 12 | [subsequences of given length](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/subseq_given_length.cpp) | powerset, set bits, &, << | Hard | 31 Oct 20 |
 13 | [min chars del anagram](https://github.com/vineethm1627/CPP/blob/master/Fork%20CPP/02%20Arrays%20and%20Strings/char_del_anagrams.cpp) | map, abs difference | Medium | 31 Oct 20 |
+14 | [pyramid pattern](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/03%20Fundamentals-1/pyramid_pattern.cpp) | for loop | Easy | 02 Nov 20 | 
