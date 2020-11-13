@@ -1,0 +1,32 @@
+Brainteaser - Daughter's ages
+
+Local professors Dr X and Dr Y bump in to each other after a long time.
+
+X: Hey! How have you been ?
+Y: Great! I got married and I have 3 daughters now
+
+X: Really? How old are they ?
+Y: Well, the product of their ages is 72 and the sum of their ages is the same as the
+   number on that building over there.
+
+X: Right. Ok...oh wait...hmm, I still don't know.
+Y: Oh Sorry, the oldest one just learnt to play piano. (hint!)
+
+X: Wonderful, my oldest is the same age!
+
+Question: How old are the daughters ?
+
+
+Solution:
+    x.y.z = 72
+    x + y + z = no. on building
+
+    {1, 1, 72}, {2, 9, 4}, {3, 6, 4}, {4, 2, 9}....
+    all of these triplets have a unique sum except 2 triplets
+    {6, 6, 2}, {8, 3, 3} --> both have sum = 14
+
+    and 14 is the number on the building
+    Hence X got confused.
+    Oldest one plays piano ie. there is only one daughter who is the oldest
+
+    Correct ans = {8, 3, 3}
