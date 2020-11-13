@@ -1,0 +1,4 @@
+1) Order of precedence of data types : float > int > char > bool
+
+2) short double will cause error
+
