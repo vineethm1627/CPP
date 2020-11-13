@@ -21,3 +21,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 14 | [pyramid pattern](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/03%20Fundamentals-1/pyramid_pattern.cpp) | for loop | Easy | 02 Nov 20 | 
 15 | [square root](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/03%20Fundamentals-1/sqrt_babylonian.cpp) | babylonian algo | Easy | 13 Nov 20 |
 16 | [0,1 pattern](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/04%20Fundamentals-2/pattern_01.cpp) | ternary operator, simple update | Easy | 13 Nov 20 |
+17 | [dec to octal](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/dec_to_octal.cpp) | vector, for_each rev print | Easy | 13 Nov 20 |
