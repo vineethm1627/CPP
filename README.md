@@ -23,3 +23,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 16 | [0,1 pattern](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/04%20Fundamentals-2/pattern_01.cpp) | ternary operator, simple update | Easy | 13 Nov 20 |
 17 | [dec to octal](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/dec_to_octal.cpp) | vector, for_each rev print | Easy | 13 Nov 20 |
 18 | [simple calculator](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/simple_calculator.cpp) | switch, signal 15 | Easy | 13 Nov 20 |
+19 | [Ramu travel cost](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/ramu_travel_cost.cpp) | arrays | Easy | 14 Nov 20 |
