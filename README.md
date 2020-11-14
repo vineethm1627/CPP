@@ -26,3 +26,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 19 | [Ramu travel cost](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/ramu_travel_cost.cpp) | arrays | Easy | 14 Nov 20 |
 20 | [pair sum](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/pair_sum.cpp) | arrays, 2 pointer approach | Easy | 14 Nov 20 |
 21 | [remove duplicate chars](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/02%20Character%20Arrays/remove_duplicate_chars.cpp) | arrays | Easy | 14 Nov 20 |
+22 | [increasing-decreasing subseq](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/increasing_decreasing_subsequence.cpp) | arrays | Medium | 14 Nov 20 |
