@@ -24,3 +24,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 17 | [dec to octal](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/dec_to_octal.cpp) | vector, for_each rev print | Easy | 13 Nov 20 |
 18 | [simple calculator](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/simple_calculator.cpp) | switch, signal 15 | Easy | 13 Nov 20 |
 19 | [Ramu travel cost](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/ramu_travel_cost.cpp) | arrays | Easy | 14 Nov 20 |
+20 | [pair sum](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/pair_sum.cpp) | arrays, 2 pointer approach | Easy | 14 Nov 20 |
