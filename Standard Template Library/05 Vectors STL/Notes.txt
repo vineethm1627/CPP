@@ -1,0 +1,12 @@
+- Vectors are dynamic arrays --> grow and shrink in size automatically depending upon the requirements.
+
+- once the full size is reached, the size gets doubled.
+- obviously there is a certain limit to how large the vector can grow in size.
+- we are not worried about how much memory to allocate.
+
+- Header file : #include <vector>
+- vector is basically a class, and while initialization you need to specify the data type.
+- vectors are homogeneous.
+
+- iterator over vector --> vector<int>::iterator else simply use auto
+- Doubling of memory is an expensive operation
