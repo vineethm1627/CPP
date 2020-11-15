@@ -1,22 +1,23 @@
+template<class T>
 class Vector {
         // this is defined in a header file
         // in vectors underlying array is dynamic
         int cur_size, max_size;
-        int *arr; // pointer that will point to the dynamic array
+        T *arr; // pointer that will point to the dynamic array
 
     public:
         // default ctor
         Vector() {
             cur_size = 0;
             max_size = 1;
-            arr = new int[max_size];
+            arr = new T[max_size];
         }
 
-        void push_back(const int d) {
+        void push_back(const T d) {
             if(cur_size == max_size) {
                 // the array is full, so allocate new memory
-                int *oldArr = arr;
-                arr = new int[2 * max_size];
+                T *oldArr = arr;
+                arr = new T[2 * max_size];
                 max_size = 2 * max_size;
                 for(int i = 0; i < cur_size; i++) {
                     arr[i] = oldArr[i];
@@ -34,11 +35,11 @@ class Vector {
             // here we are not implementing shrinking
         }
         // constant function as no changes are being made to any data member
-        int front() const{
+        T front() const{
             return arr[0];
         }
 
-        int back() const{
+        T back() const{
             return arr[cur_size - 1];
         }
 
@@ -50,12 +51,12 @@ class Vector {
             return max_size;
         }
 
-        int at(const int index) {
+        T at(const int index) {
             return arr[index];
         }
 
         // operator overloading
-        int operator[](const int index) const{
+        T operator[](const int index) const{
             return arr[index];
         }
 
