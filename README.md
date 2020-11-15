@@ -28,3 +28,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 21 | [remove duplicate chars](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/02%20Character%20Arrays/remove_duplicate_chars.cpp) | arrays | Easy | 14 Nov 20 |
 22 | [increasing-decreasing subseq](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/increasing_decreasing_subsequence.cpp) | arrays | Medium | 14 Nov 20 |
 23 | [strict split array](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/split_incr_decr_sequence.cpp) | 2 vectors, sorting | Easy | 14 Nov 20 |
+24 | [vector for custom class](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/05%20Vectors%20STL/vector_custom_class.cpp) | vectors, class, compare | Easy | 15 Nov 20 | 
