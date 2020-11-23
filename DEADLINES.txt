@@ -8,4 +8,4 @@
 
 5) C++ Fundamentals : codingblocks --> 01 January 2021
 
-6) Easy to Advanced Data Structures : udemy --> lifetime access
+6) Easy to Advanced Data Structures (https://www.udemy.com/course/introduction-to-data-structures/): udemy --> lifetime access
