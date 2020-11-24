@@ -8,7 +8,7 @@ S.No. | Topic Name| Status | Date Completed |
 4 | Programming Fundamentals-2 | done | 13 Nov 20 |
 5 | Challenges Fundamentals | not done | |
 6 | Challenges Patterns | not done | |
-7 | Functions | not done | |
+7 | Functions | done | 24 Nov 20 |
 8 | Arrays | done | 19 Oct 20 |
 9 | Character Arrays | done | 14 Nov 20 |
 10 | 2D Arrays | not done | |
