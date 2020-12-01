@@ -32,3 +32,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 25 | [pythagorean triplet](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/05%20Challenges%20Fundamentals/pythogorean_triplet.cpp) | maths | Medium | 17 Nov 20 |
 26 | [trailing zeroes factorial](https://github.com/vineethm1627/CPP/blob/master/C%2B%2B%20Fundamentals/07%20Functions/trailing_zerores.cpp) | maths floor division | Easy | 20 Nov 20 |
 27 | [interval point membership](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/EXTRAS/01_interval_membership.cpp) | set of pair, upper_bound | Easy | 23 Nov 20 |
+28 | [substring overlapping occurrence](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/04%20String%20STL/substring_count.cpp) | string find, string::npos | Easy | 01 Dec 20 |
