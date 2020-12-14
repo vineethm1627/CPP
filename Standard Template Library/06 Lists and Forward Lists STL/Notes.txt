@@ -1,0 +1,21 @@
+List in STL corresponds to doubly linked list.
+Here, we have two pointers ie head and tail.
+
+Forward List corresponds to singly linked list.
+It uses one pointer ie head which points to the starting node.
+
+Why Lists are useful ?
+    insertion and deletion of data from front, middle or anywhere.
+    these operations work in O(1)
+    in vector if you have to enter an element in the middle then you need to shift all the elements after that position.
+
+    some common operations:
+        1) push_back : Insert at the tail
+        2) push_front : Insert at the head
+        3) pop_back : remove the element at the tail.
+        4) pop_front : remove the element at the head.
+        5) insert : 
+        6) erase : based on index
+        7) remove : to remove all occurences of a node value.
+
+
