@@ -37,3 +37,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 30 | [second largest in array](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/second_largest_array.cpp) | 2 variables and swap | Easy | 14 Dec 20 |
 31 | [pair sum with duplicate elements](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/pair_sum_repetitive.cpp) | unordered_map, 2 pointer fails | Easy | 14 Dec 20 |
 32 | [min Steps to 1](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/min_steps_to_one.cpp) | DP | Easy | 14 Dec 20 |
+33 | [distinct pair sum in array](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/distinct_pair_sum_in_array.cpp) | map of pairs | Medium | 14 Dec 20 |
