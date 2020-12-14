@@ -7,7 +7,7 @@ S.No. | Topic Name| Status | Date Completed |
 3 | Algorithms STL | done | 18 Oct 20 |
 4 | Strings STL | done | 21 Oct 20 |
 5 | Vectors STL | done | 15 Nov 20 |
-6 | Lists and Forward Lists STL | not done | |
+6 | Lists and Forward Lists STL | done | 14 Dec 20 |
 7 | Stack and Queue STL | not done | |
 8 | Deque STL | not done | |
 9 | Priority Queue STL | not done | |
