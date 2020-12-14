@@ -36,3 +36,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 29 | [sum pivot with one swap](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/EXTRAS/sum_pivot_with_one_swap.cpp) | 2 maps and maths | Medium | 14 Dec 20 |
 30 | [second largest in array](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/second_largest_array.cpp) | 2 variables and swap | Easy | 14 Dec 20 |
 31 | [pair sum with duplicate elements](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/pair_sum_repetitive.cpp) | unordered_map, 2 pointer fails | Easy | 14 Dec 20 |
+32 | [min Steps to 1](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/min_steps_to_one.cpp) | DP | Easy | 14 Dec 20 |
