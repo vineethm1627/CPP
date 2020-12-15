@@ -39,3 +39,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 32 | [min Steps to 1](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/min_steps_to_one.cpp) | DP | Easy | 14 Dec 20 |
 33 | [distinct pair sum in array](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/distinct_pair_sum_in_array.cpp) | map of pairs | Medium | 14 Dec 20 |
 34 | [rotate array clockwise](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/rotate_array_c.cpp) | reverse 2 parts | Easy | 15 Dec 20 |
+35 | [rotate array counter-clockwise](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/rotate_array_cc.cpp) | Juggling Algo | Medium | 15 Dec 20 |
