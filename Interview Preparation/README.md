@@ -7,16 +7,16 @@ S.No. | Topic Name| Status | Date Completed|
 3 | Character Arrays | done | 22 Oct 20 |
 4 | Strings | done | 21 Oct 20 |
 5 | 2D Arrays | done | 17 Dec 20 |
-6 | Problem Solving on 2D Arrays | not done | |
+6 | Problem Solving on 2D Arrays | done | 18 Dec 20 |
 7 | Challenges Arrays | not done | |
 8 | Challenges Strings | not done | |
-9 | Pointers | not done | |
-10 | Dynamic Memory Allocation | not done | |
-11 | Algorithms STL | not done | |
+9 | Pointers | done | 19 Dec 20 |
+10 | Dynamic Memory Allocation | done | 19 Dec 20 |
+11 | Algorithms STL | done | 19 Dec 20 |
 12 | Binary Search (Divide and Conquer) | not done | |
 13 | Challenges Sorting and Searching | not done | |
-14 | Generic Programming in C++ | not done | |
-15 | Vectors | not done | |
+14 | Generic Programming in C++ | done | 19 Dec 20 |
+15 | Vectors | done | 19 Dec 20 |
 16 | Bit Manipulation | not done | |
 17 | Challenges Bitmasking | not done | |
 18 | Number Theory Basics | not done | |
