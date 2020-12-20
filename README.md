@@ -42,3 +42,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 35 | [rotate array counter-clockwise](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/rotate_array_cc.cpp) | Juggling Algo | Medium | 15 Dec 20 |
 36 | [spiral matrix print](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/03%202D%20Arrays/spiral_print.cpp) | 4 pointers, corner cases | Easy | 17 Dec 20 |
 37 | [median row-wise sorted matrix](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/04%20Problem%20Solving%202D%20Arrays/median_row_sorted.cpp) | binary search + upper_bound | Medium | 19 Dec 20 |
+38 | [kth smallest in row-col sorted matrix](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/04%20Problem%20Solving%202D%20Arrays/kth_smallest_sorted_matrix.cpp) | binary search + staircase search | Medium | 20 Dec 20 | 
