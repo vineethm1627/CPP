@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | max submatrix sum rowCol sorted | suffix sum array | [view](max_sum_rowcol_sorted.cpp)
 6 | median in row-wise sorted matrix | binary search, upper bound | [view](median_row_sorted.cpp)
 7 | kth smallest in sorted matrix | priority_queue, maxHeap | [view](k_smallest_sorted_matrix.cpp)
+8 | kth smallest in sorted matrix | binary search, staircase search | [view](kth_smallest_sorted_matrix.cpp)
