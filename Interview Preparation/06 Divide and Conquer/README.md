@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 6 | aggressive cows | monotonic search space of min separation | [view](aggressive_cows.cpp)
 7 | book allocation | monotonic search space of least upper_bound | [view](book_allocation.cpp)
 8 | peak element | element greater than its neighbours | [view](peak_element.cpp)
+9 | strict peak element | element strictly greater than its neighbours | [view](strict_peak_element.cpp)
