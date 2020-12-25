@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 9 | strict peak element | element strictly greater than its neighbours | [view](strict_peak_element.cpp)
 10 | peak in mountain array | binary search | [view](peak_mountain.cpp)
 11 | Paranthas SPOJ | monotonic search space of min time | [view](prata_SPOJ.cpp)
+12 | CB Scholarship Winner | monotonic search space of max students | [view](winner_CB.cpp)
