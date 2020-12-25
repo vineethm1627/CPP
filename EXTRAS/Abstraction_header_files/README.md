@@ -1,0 +1,5 @@
+- The main file imports the header file and contains no implementation details of the class.
+- The headerfile contains the data members and the declaration of the member functions.
+- This is used as a reference for the interface between the user and the functions the class provides.
+- The implementation details are present in Planet.cpp file where the scope resolution operator is used to provide the implementation of all the member functions of the class.
+- #ifndef and #endif construct in the headerfile plays the key role in achieving "Abstraction in headerfiles".
