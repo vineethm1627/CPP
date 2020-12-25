@@ -13,7 +13,7 @@ S.No. | Topic Name| Status | Date Completed|
 9 | Pointers | done | 19 Dec 20 |
 10 | Dynamic Memory Allocation | done | 19 Dec 20 |
 11 | Algorithms STL | done | 19 Dec 20 |
-12 | Binary Search (Divide and Conquer) | not done | |
+12 | Binary Search (Divide and Conquer) | done | 25 Dec 20 |
 13 | Challenges Sorting and Searching | not done | |
 14 | Generic Programming in C++ | done | 19 Dec 20 |
 15 | Vectors | done | 19 Dec 20 |
