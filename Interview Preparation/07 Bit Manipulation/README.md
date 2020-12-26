@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | replace bits in N by M | clear bits, OR | [view](replace_bits.cpp)
 4 | count Set bits | brian kernighans, __builtin_popcount | [view](count_set_bits.cpp)
 5 | decimal to binary | powers of 10 | [view](decimal_to_binary.cpp)
+6 | 2 unique numbers in array of duplicates | set bit position in xor result | [view](2_unique_nos.cpp)
