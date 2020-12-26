@@ -9,3 +9,5 @@
 5) C++ Fundamentals : codingblocks --> 01 January 2021
 
 6) Easy to Advanced Data Structures (https://www.udemy.com/course/introduction-to-data-structures/): udemy --> lifetime access
+
+7) CPP Productivity Hacks (https://practice.geeksforgeeks.org/courses/CPP-Productivity-Hacks): GeeksforGeeks --> lifetime access
