@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | 2 unique numbers in array of duplicates | set bit position in xor result | [view](2_unique_nos.cpp)
 7 | unique number in thrice occurrence in array | bits pos-wise occur 3 times | [view](thrice_occur_unique.cpp)
 8 | power optimized | exponent bit extraction, squaring number | [view](fast_exponentiation.cpp) 
+9 | generate subsets | 0 to 2^n | [view](generate_subsets.cpp)
