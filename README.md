@@ -45,3 +45,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 38 | [kth smallest in row-col sorted matrix](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/04%20Problem%20Solving%202D%20Arrays/kth_smallest_sorted_matrix.cpp) | binary search + staircase search | Medium | 20 Dec 20 | 
 39 | [cyclic binary search](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/06%20Divide%20and%20Conquer/cyclic_binary_search.cpp) | breakpoint parts + binary search | Easy | 22 Dec 20 |
 40 | [book allocation](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/06%20Divide%20and%20Conquer/book_allocation.cpp) | monotonic search space | Medium | 23 Dec 20 |
+41 | [max element in window size = k](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/08%20Deque/max_window_element.cpp) | deque, sliding window technique | Hard | 27 Dec 20 |
