@@ -13,7 +13,7 @@ S.No. | Topic Name| Status | Date Completed |
 9 | Priority Queue STL | done | 27 Dec 20 |
 10 | Maps and Multimaps STL | done | 28 Dec 20 |
 11 | Unordered Maps STL | not done | |
-12 | Set STL | not done | |
+12 | Set STL | done | 28 Dec 20 |
 13 | Policy Based Data Structures (PBDS) | not done | |
 14 | STL Quizzes | not done | |
 15 | Coding Questions | not done | |
