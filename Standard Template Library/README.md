@@ -11,7 +11,7 @@ S.No. | Topic Name| Status | Date Completed |
 7 | Stack and Queue STL | done | 16 Dec 20 |
 8 | Deque STL | done | 27 Dec 20 |
 9 | Priority Queue STL | done | 27 Dec 20 |
-10 | Maps and Multimaps STL | not done | |
+10 | Maps and Multimaps STL | done | 28 Dec 20 |
 11 | Unordered Maps STL | not done | |
 12 | Set STL | not done | |
 13 | Policy Based Data Structures (PBDS) | not done | |
