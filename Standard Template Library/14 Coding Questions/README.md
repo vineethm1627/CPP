@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | form biggest number from array | string append, custom compare | [view](form_biggest_number.cpp)
 10 | maximum circles | greedy, variation of activity selection | [view](maximum_circles.cpp)
 11 | strongest fighter | deque, sliding window technique | [view](strongest_fighter.cpp)
+12 | vertical order print | Binary Tree, map, queue | [view](vertical_order_print.cpp)
