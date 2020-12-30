@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | stack codes | stack push, pop | [view](stack_code.cpp)
 8 | tricky_permutations | next_permutation | [view](tricky_permutations.cpp)
 9 | form biggest number from array | string append, custom compare | [view](form_biggest_number.cpp)
+10 | maximum circles | greedy, variation of activity selection | [view](maximum_circles.cpp)
