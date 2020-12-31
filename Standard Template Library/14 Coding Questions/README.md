@@ -16,3 +16,4 @@ SNo | Name | Logic Used | Link |
 12 | vertical order print | Binary Tree, map, queue | [view](vertical_order_print.cpp)
 13 | next greater element circular array | naive circular for loop | [view](next_greater_element_naive.cpp)
 14 | next greater element circular array | stack, traversal right to left | [view](NGE_circular_stack.cpp)
+15 | nge normal array without duplicates | stack, traversal from left to right | [view](NGE_normal_wo_duplicates.cpp)
