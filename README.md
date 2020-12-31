@@ -47,3 +47,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 40 | [book allocation](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/06%20Divide%20and%20Conquer/book_allocation.cpp) | monotonic search space | Medium | 23 Dec 20 |
 41 | [max element in window size = k](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/08%20Deque/max_window_element.cpp) | deque, sliding window technique | Hard | 27 Dec 20 |
 42 | [vertical order print of binary tree](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/vertical_order_print.cpp) | queue, map, vector, recursion | Hard | 30 Dec 20 |
+43 | [next greater element, circular array](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/NGE_circular_stack.cpp) | stack, traversal from right to left | Medium | 31 Dec 21 |
