@@ -18,3 +18,4 @@ SNo | Name | Logic Used | Link |
 14 | *next greater element circular array | stack, traversal right to left | [view](NGE_circular_stack.cpp)
 15 | nge normal array without duplicates | stack, traversal from left to right | [view](NGE_normal_wo_duplicates.cpp)
 16 | *nge normal array with duplicates | stack, traversal from right to left | [view](NGE_normal_with_duplicates.cpp)
+17 | merge k sorted arrays | minHeap, merge sort | [view](merge_k_sorted_arrays.cpp)
