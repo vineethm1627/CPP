@@ -50,3 +50,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 43 | [next greater element, circular array](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/NGE_circular_stack.cpp) | stack, traversal from right to left | Medium | 31 Dec 21 |
 44 | [k largest elements](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/09%20Priority%20Queue/k_largest_elements.cpp) | minHeap of size k | Easy | 31 Dec 20 |
 45 | [merge k sorted arrays](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/merge_k_sorted_arrays.cpp) | minHeap and merge sort | Medium | 31 Dec 20 |
+46 | [merge k sorted linked lists](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/merge_k_sorted_linked_lists.cpp) | minHeap and merge sort | Medium | 01 Jan 21 |
