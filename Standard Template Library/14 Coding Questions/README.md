@@ -21,3 +21,4 @@ SNo | Name | Logic Used | Link |
 17 | merge k sorted arrays | minHeap, merge sort | [view](merge_k_sorted_arrays.cpp)
 18 | merge k sorted linked lists | minHeap, merge sort | [view](merge_k_sorted_linked_lists.cpp)
 19 | merge 2 sorted linked lists | 2 pointers | [view](merge_2_sorted_linked_lists.cpp)
+20 | Perfect string of same char | 2 pointers | [view](perfect_string.cpp)
