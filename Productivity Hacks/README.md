@@ -16,7 +16,7 @@ This course is specially designed to cater to the needs of C++ developers, be it
 
 SNo | Topic Name | Date Completed |
 ----|------------|----------------|
-1 | Basics | not done |
+1 | Basics | 01 Jan 21 |
 2 | String | not done |
 3 | Bit Manipulation | not done |
 4 | Vector | not done |
