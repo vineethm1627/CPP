@@ -8,7 +8,7 @@ SNo | Topic Name | Date Completed | Link |
 4 | Bidirectional Iterator | 01 Jan 21 | [view](bi_directional_iterator.cpp) |
 5 | Tie and Make Tuple | 01 Jan 21 | [view](tie_make_tuple.cpp) |
 6 | update for each loop | 01 Jan 21 | [view](for_each_update.cpp) |
-7 | Importance of brackets | not done | - |
+7 | Importance of brackets | 01 Jan 21 | [view](power_of_2.cpp) |
 8 | auto keyword | not done | - |
 9 | size_t declaration | not done | - |
 10 | typeid name usage | not done | - |
