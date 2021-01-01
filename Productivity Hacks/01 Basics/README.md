@@ -4,7 +4,7 @@ SNo | Topic Name | Date Completed | Link |
 ----|------------|----------------|------|
 1 | Fast IO | 01 Jan 21 | [view](fast_IO.cpp) | 
 2 | Random Access Iterator | 01 Jan 21 | [view](random_access_iterator.cpp) |
-3 | Forward Iterator | not done | - |
+3 | Forward Iterator | 01 Jan 21 | [view](forward_iterator.cpp) |
 4 | Bidirectional Iterator | not done | - |
 5 | Tie and Make Tuple | not done | - |
 6 | update for each loop | not done | - |
