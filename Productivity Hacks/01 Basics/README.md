@@ -10,5 +10,5 @@ SNo | Topic Name | Date Completed | Link |
 6 | update for each loop | 01 Jan 21 | [view](for_each_update.cpp) |
 7 | Importance of brackets | 01 Jan 21 | [view](power_of_2.cpp) |
 8 | auto keyword | 01 Jan 21 | [view](auto_keyword.cpp) |
-9 | size_t declaration | not done | - |
+9 | size_t declaration | 01 Jan 21 | [view](size_t.cpp) |
 10 | typeid name usage | not done | - |
