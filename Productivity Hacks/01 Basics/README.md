@@ -2,7 +2,7 @@
 
 SNo | Topic Name | Date Completed | Link |
 ----|------------|----------------|------|
-1 | Fast IO | not done | - | 
+1 | Fast IO | 01 Jan 21 | [view](fast_IO.cpp) | 
 2 | Random Access Iterator | not done | - |
 3 | Forward Iterator | not done | - |
 4 | Bidirectional Iterator | not done | - |
