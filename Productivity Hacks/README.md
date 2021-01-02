@@ -18,7 +18,7 @@ SNo | Topic Name | Date Completed |
 ----|------------|----------------|
 1 | Basics | 01 Jan 21 |
 2 | String | 01 Jan 21 |
-3 | Bit Manipulation | not done |
+3 | Bit Manipulation | 02 Jan 21 |
 4 | Vector | not done |
 5 | Set and Unordered_set | not done |
 6 | Map and Unordered_map | not done |
