@@ -19,7 +19,7 @@ SNo | Topic Name | Date Completed |
 1 | Basics | 01 Jan 21 |
 2 | String | 01 Jan 21 |
 3 | Bit Manipulation | 02 Jan 21 |
-4 | Vector | not done |
+4 | Vector | 03 Jan 21 |
 5 | Set and Unordered_set | not done |
 6 | Map and Unordered_map | not done |
 7 | Macros and Headers | not done |
