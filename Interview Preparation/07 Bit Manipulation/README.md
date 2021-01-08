@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | unique number in thrice occurrence in array | bits pos-wise occur 3 times | [view](thrice_occur_unique.cpp)
 8 | power optimized | exponent bit extraction, squaring number | [view](fast_exponentiation.cpp) 
 9 | generate subsets | 0 to 2^n | [view](generate_subsets.cpp)
+10 | inverse of a number | pos -> digit, digit ->pos | [view](inverse_number.cpp)
