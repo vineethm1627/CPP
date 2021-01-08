@@ -134,7 +134,6 @@ bool searchRecursive(node *head, int key) {
         return true;
     else
         return searchRecursive(head->next, key);
-    
 }
 
 // take user input
