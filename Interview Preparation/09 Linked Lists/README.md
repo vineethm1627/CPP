@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | kth node from the end | fast, slow pointer | [view](kth_node_from_end.cpp)
 10 | merge 2 sorted linked lists | recursion | [view](merge_2_sorted_lists.cpp)
 11 | merge sort in linked list | O(nlogn) sorted | [view](merge_sort.cpp)
+12 | floyd cycle detection and removal | fast, slow pointer meetup | [view](floyds_cycle.cpp)
