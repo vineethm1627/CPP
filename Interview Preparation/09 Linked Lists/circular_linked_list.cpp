@@ -39,6 +39,42 @@ void printList(node *head) {
     cout << temp->data;
 }
 
+// search the presence of a node in the list
+node* getNode(node *&head, int data) {
+    node *temp = head;
+    // all nodes except the last node
+    while(temp->next != head) {
+        if(temp->data == data) 
+            return temp;
+        temp = temp->next;
+    }
+    // check for the last node
+    if(temp->data == data)
+        return temp;
+    return NULL;
+}
+
+// delete node with value data
+void deleteNode(node *&head, int data) {
+    // get the pointer to the node to be deleted.
+    node *del = getNode(head, data);
+    if(del == NULL) {
+        // node doesn't exist
+        return;
+    }
+    if(head == del) {
+        head = head->next;
+    }
+
+    node *temp = head;
+    // stop one step behind the node to be deleted
+    while(temp->next != del) 
+        temp = temp->next;
+
+    temp->next = del->next;
+    delete del;
+}
+
 // take user input from the console
 node* inputList() {
     int data;
@@ -69,11 +105,14 @@ istream& operator>>(istream &cin, node *&head) {
 
 int main() {
    
+    int value;
     node *head;
     cin >> head;
-
-    cout << head;
-    
+    cout << "original: " << head;
+    cout << "Enter value: ";
+    cin >> value;
+    deleteNode(head, value);
+    cout << "after deletion: " << head;
     return 0;
 }
 
