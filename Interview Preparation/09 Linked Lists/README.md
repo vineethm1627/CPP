@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | linear search | sequential search | [view](searching.cpp)
 5 | operator overeloadin >>, << | cin to input list, cout to print list | [view](operator_overloading.cpp)
 6 | reverse a list | 3 pointers, iterative | [view](reverse_list.cpp)
+7 | reverse a list | recursive, small head | [view](recursive_reverse.cpp)
