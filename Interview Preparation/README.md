@@ -31,7 +31,7 @@ S.No. | Topic Name| Status | Date Completed|
 27 | Challenges Backtracking | not done | |
 28 | Space Time Complexity | not done | |
 29 | Object Oriented Programming Concepts | not done | |
-30 | Linked Lists | not done | |
+30 | Linked Lists | done | 09 Jan 21 |
 31 | Stacks | not done | |
 32 | Queues | not done | |
 33 | Deque | not done | |
