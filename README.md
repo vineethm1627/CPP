@@ -52,3 +52,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 45 | [merge k sorted arrays](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/merge_k_sorted_arrays.cpp) | minHeap and merge sort | Medium | 31 Dec 20 |
 46 | [merge k sorted linked lists](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/14%20Coding%20Questions/merge_k_sorted_linked_lists.cpp) | minHeap and merge sort | Medium | 01 Jan 21 |
 47 | [recursively reverse linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/recursive_reverse.cpp) | recursion and pointers | Medium | 09 Jan 21 | 
+48 | [kth node from end linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/kth_node_from_end.cpp) | fast, slow pointers | Easy | 09 Jan 21 | 
