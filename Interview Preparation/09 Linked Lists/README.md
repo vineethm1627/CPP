@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | operator overeloadin >>, << | cin to input list, cout to print list | [view](operator_overloading.cpp)
 6 | reverse a list | 3 pointers, iterative | [view](reverse_list.cpp)
 7 | reverse a list | recursive, small head | [view](recursive_reverse.cpp)
+8 | midpoint of a list | fast, slow pointer | [view](midpoint_runner.cpp)
