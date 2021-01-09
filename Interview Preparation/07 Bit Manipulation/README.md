@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | power optimized | exponent bit extraction, squaring number | [view](fast_exponentiation.cpp) 
 9 | generate subsets | 0 to 2^n | [view](generate_subsets.cpp)
 10 | inverse of a number | pos -> digit, digit ->pos | [view](inverse_number.cpp)
+11 | count set bits from 1 to n | alternating 0s and 1s pattern | [view](total_set_bits.cpp)
