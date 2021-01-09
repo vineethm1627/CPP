@@ -17,7 +17,7 @@ S.No. | Topic Name| Status | Date Completed|
 13 | Challenges Sorting and Searching | not done | |
 14 | Generic Programming in C++ | done | 19 Dec 20 |
 15 | Vectors | done | 19 Dec 20 |
-16 | Bit Manipulation | not done | |
+16 | Bit Manipulation | done | 09 Jan 21 |
 17 | Challenges Bitmasking | not done | |
 18 | Number Theory Basics | not done | |
 19 | Challenges Number Theory | not done | |
