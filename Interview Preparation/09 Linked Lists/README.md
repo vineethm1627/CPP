@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | reverse a list | 3 pointers, iterative | [view](reverse_list.cpp)
 7 | reverse a list | recursive, small head | [view](recursive_reverse.cpp)
 8 | midpoint of a list | fast, slow pointer | [view](midpoint_runner.cpp)
+9 | kth node from the end | fast, slow pointer | [view](kth_node_from_end.cpp)
