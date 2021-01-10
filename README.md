@@ -54,3 +54,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 47 | [recursively reverse linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/recursive_reverse.cpp) | recursion and pointers | Medium | 09 Jan 21 | 
 48 | [kth node from end linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/kth_node_from_end.cpp) | fast, slow pointers | Easy | 09 Jan 21 | 
 49 | [cycle detection in linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/floyds_cycle.cpp) | floyd, fast == slow | Medium | 09 Jan 21 |
+50 | [median of 2 sorted arrays](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/06%20Divide%20and%20Conquer/median_2_sorted_arrays.cpp) | binary search, 4 variables | Hard | 10 Jan 21 |
