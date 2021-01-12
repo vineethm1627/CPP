@@ -3,11 +3,12 @@
 #include <vector>
 using namespace std;
 
+template <class T>
 class Stack {
 
-    vector<int> v;
+    vector<T> v;
     public:
-        void push(int data) {
+        void push(T data) {
             v.push_back(data);
         }
 
@@ -20,15 +21,15 @@ class Stack {
                 v.pop_back();
         }
 
-        int top() {
+        T top() {
             return v[v.size() - 1];
         }
 };
 
 int main() {
 
-    Stack s;
-    for(int i = 1; i <= 5; i++) 
+    Stack<char> s;
+    for(int i = 65; i <= 70; i++) 
         s.push(i);
     
     while(!s.empty()) {
