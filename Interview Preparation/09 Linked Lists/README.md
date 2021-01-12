@@ -17,3 +17,4 @@ SNo | Name | Logic Used | Link |
 13 | doubly linked list intro | prev, next pointers | [view](doubly_linked_list.cpp)
 14 | insert at head in circular list | self loop | [view](circular_linked_list.cpp)
 15 | deletion in circular list | head, edge case | [view](circular_linked_list.cpp)
+16 | intersection of 2 lists in place | start, end , set | [view](intersection.cpp)
