@@ -19,3 +19,4 @@ SNo | Name | Logic Used | Link |
 15 | deletion in circular list | head, edge case | [view](circular_linked_list.cpp)
 16 | intersection of 2 unsorted lists in place | start, end , set | [view](intersection.cpp)
 17 | union of 2 unsorted lists | set, new list | [view](union.cpp)
+18 | swap nodes  | prev, curr, swap nodes, next pointers | [view](swap_nodes_pointers.cpp)
