@@ -21,7 +21,7 @@ SNo | Topic Name | Date Completed |
 3 | Bit Manipulation | 02 Jan 21 |
 4 | Vector | 03 Jan 21 |
 5 | Set and Unordered_set | 04 Jan 21 |
-6 | Map and Unordered_map | not done |
+6 | Map and Unordered_map | 13 Jan 21 |
 7 | Macros and Headers | not done |
 8 | Maths | not done |
 9 | Algorithms | not done |
