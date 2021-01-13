@@ -20,3 +20,4 @@ SNo | Name | Logic Used | Link |
 16 | intersection of 2 unsorted lists in place | start, end , set | [view](intersection.cpp)
 17 | union of 2 unsorted lists | set, new list | [view](union.cpp)
 18 | swap nodes  | prev, curr, swap nodes, next pointers | [view](swap_nodes_pointers.cpp)
+19 | palindrome list | reverse from middle, compare | [view](palindrome.cpp)
