@@ -33,7 +33,7 @@ S.No. | Topic Name| Status | Date Completed|
 29 | Object Oriented Programming Concepts | not done | |
 30 | Linked Lists | done | 09 Jan 21 |
 31 | Stacks | done | 14 Jan 21 |
-32 | Queues | not done | |
+32 | Queues | done | 19 Jan 21 |
 33 | Deque | not done | |
 34 | Challenges Stacks, Queue, Deque | not done | |
 35 | Binary Tree | not done | |
