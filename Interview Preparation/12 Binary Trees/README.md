@@ -6,3 +6,4 @@ SNo | Name | Logic Used | Link |
 2 | inorder and postorder traversal | recursion | [view](inorder_postorder_traversal.cpp)
 3 | level order traversal | height, kth level print | [view](level_order_traversal.cpp)
 4 | BFS(level order) | queue, pop, insert children | [view](BFS_traversal.cpp)
+5 | count and sum of nodes | 1+count(r->left)+count(r->right) | [view](count_sum_nodes.cpp) 
