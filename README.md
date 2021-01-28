@@ -57,3 +57,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 50 | [median of 2 sorted arrays](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/06%20Divide%20and%20Conquer/median_2_sorted_arrays.cpp) | binary search, 4 variables | Hard | 10 Jan 21 |
 51 | [palindrome linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/09%20Linked%20Lists/palindrome.cpp) | reverse from middle, compare | Easy | 13 Jan 21 |
 52 | [unique non-repeating chars substr](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/08%20Deque/longest_unique_substring.cpp) | deque, sliding window | Easy | 20 Jan 21 |
+53 | [level order traversal of binary tree](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/level_order_traversal.cpp) | height, recursion, kth print | Medium | 28 Jan 21 |
