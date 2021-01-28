@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | level order traversal | height, kth level print | [view](level_order_traversal.cpp)
 4 | BFS(level order) | queue, pop, insert children | [view](BFS_traversal.cpp)
 5 | count and sum of nodes | 1+count(r->left)+count(r->right) | [view](count_sum_nodes.cpp) 
+6 | diameter of the tree | 3 cases, left, right, through root | [view](diameter_tree.cpp)
