@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | diameter of the tree | O(n^2) 3 cases, left, right, through root | [view](diameter_tree.cpp)
 7 | mirror of the tree | recursive swapping | [view](mirror_tree.cpp)
 8 | diameter tree optimized | Pair, bottom up(postorder) | [view](diameter_tree_optimized.cpp)
+9 | sum replacement | postorder-bottom-up recursion | [view](sum_replacement.cpp)
