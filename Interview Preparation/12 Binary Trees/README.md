@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | sum replacement | postorder-bottom-up recursion | [view](sum_replacement.cpp)
 10 | check if tree is height balanced | postorder-bottom-up recursion | [view](height_balanced_tree.cpp)
 11 | build height balanced tree from array | recursion, binary search logic | [view](build_height_balanced_tree.cpp)
+12 | build tree from in and preorder traversal | traverse pre and divide from in | [view](build_tree_in_preorder.cpp)
