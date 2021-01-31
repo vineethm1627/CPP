@@ -16,3 +16,4 @@ SNo | Name | Logic Used | Link |
 12 | build tree from in and preorder traversal | traverse pre and divide from in | [view](build_tree_in_preorder.cpp)
 13 | right view | NRL traversal and new max level | [view](right_view.cpp)
 14 | nodes at distance K | printAtLevel, ancestors | [view](distance_k_target_node.cpp)
+15 | lowest common ancestor | values lie on left and right,return NULL or root | [view](Lowest_Common_Ancestor.cpp)
