@@ -59,3 +59,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 52 | [unique non-repeating chars substr](https://github.com/vineethm1627/CPP/blob/master/Standard%20Template%20Library/08%20Deque/longest_unique_substring.cpp) | deque, sliding window | Easy | 20 Jan 21 |
 53 | [level order traversal of binary tree](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/level_order_traversal.cpp) | height, recursion, kth print | Medium | 28 Jan 21 |
 54 | [right view of binary tree](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/right_view.cpp) | NRL, new max level | Medium | 30 Jan 21 |
+55 | [tree nodes at distance K from target node](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/distance_k_target_node.cpp) | printAtLevel, ancestors U-turn | Hard | 31 Jan 21 |
