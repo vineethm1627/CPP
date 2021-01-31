@@ -34,9 +34,9 @@ S.No. | Topic Name| Status | Date Completed|
 30 | Linked Lists | done | 09 Jan 21 |
 31 | Stacks | done | 14 Jan 21 |
 32 | Queues | done | 19 Jan 21 |
-33 | Deque | not done | |
+33 | Deque | done | 31 Jan 21 |
 34 | Challenges Stacks, Queue, Deque | not done | |
-35 | Binary Tree | not done | |
+35 | Binary Tree | done | 31 Jan 21 |
 36 | Binary Search Tree | not done | |
 37 | Challenges Trees | not done | |
 38 | Heaps | not done | |
@@ -58,8 +58,8 @@ S.No. | Topic Name| Status | Date Completed|
 54 | Real life Project Sudoku Game | not done | |
 55 | Recent Webinars | not done | |
 56 | E-Book and Extra Questions | not done | |
-57 | Introductions | not done | |
-58 | Networks | not done | |
+57 | Introductions | done | 28 Jan 21 |
+58 | Networks | done | 29 Jan 21 |
 59 | Web Technologies | not done | |
 60 | Operating Systems | not done | |
 61 | Puzzles | not done | |
