@@ -17,3 +17,4 @@ SNo | Name | Logic Used | Link |
 13 | right view | NRL traversal and new max level | [view](right_view.cpp)
 14 | nodes at distance K | printAtLevel, ancestors | [view](distance_k_target_node.cpp)
 15 | lowest common ancestor | values lie on left and right,return NULL or root | [view](Lowest_Common_Ancestor.cpp)
+16 | max sum path | max sum from any node to any node in tree | [view](max_sum_path.cpp)
