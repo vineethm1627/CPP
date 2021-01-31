@@ -15,3 +15,4 @@ SNo | Name | Logic Used | Link |
 11 | build height balanced tree from array | recursion, binary search logic | [view](build_height_balanced_tree.cpp)
 12 | build tree from in and preorder traversal | traverse pre and divide from in | [view](build_tree_in_preorder.cpp)
 13 | right view | NRL traversal and new max level | [view](right_view.cpp)
+14 | nodes at distance K | printAtLevel, ancestors | [view](distance_k_target_node.cpp)
