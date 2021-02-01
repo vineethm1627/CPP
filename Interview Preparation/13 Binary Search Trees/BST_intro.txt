@@ -1,0 +1,14 @@
+Problem with Binary Tree
+    search operation will take O(n) time as there is no heuristic for doing that.
+
+BST is a special kind of Binary Tree with some special properties:
+    - elements are ordered
+    - for a given node, left subtree elements <= node value.
+    - for a given node, right subtree elements > node value.
+    - each subtree should be a BST
+
+In BST search is O(logn) ie in worst case traverse the entire height of the tree(its longest branch)
+If the tree is skewed, it will take O(N) time. [rare case] --> self-balancing trees to avoid this case.
+
+Insertion and deletion also takes O(logn) time.
+
