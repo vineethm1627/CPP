@@ -37,7 +37,7 @@ S.No. | Topic Name| Status | Date Completed|
 33 | Deque | done | 31 Jan 21 |
 34 | Challenges Stacks, Queue, Deque | not done | |
 35 | Binary Tree | done | 31 Jan 21 |
-36 | Binary Search Tree | not done | |
+36 | Binary Search Tree | done | 03 Feb 21 |
 37 | Challenges Trees | not done | |
 38 | Heaps | not done | |
 39 | Challenges Heaps | not done | |
