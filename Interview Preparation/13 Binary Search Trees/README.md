@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | checking for BST | (min_val, max_val) range | [view](check_BST.cpp)
 6 | flatten a tree into sorted linked list | postorder, return head and tail | [view](flatten_BST.cpp)
 7 | count of BSTs 1..n | catalan number, DP | [view](catalan_number.cpp)
+8 | multiset | equal_range, uses BST | [view](multiset.cpp)
