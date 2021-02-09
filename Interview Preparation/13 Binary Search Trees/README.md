@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | count of BSTs 1..n | catalan number, DP | [view](catalan_number.cpp)
 8 | multiset | equal_range, uses BST | [view](multiset.cpp)
 9 | multiset for custom class | operator overloading, custom compare | [view](multiset_custom_class.cpp)
+10 | build BST from sorted array | binary search logic with 2 calls | [view](build_BST_sorted_array.cpp)
