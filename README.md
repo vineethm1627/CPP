@@ -62,3 +62,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 55 | [tree nodes at distance K from target node](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/distance_k_target_node.cpp) | printAtLevel, ancestors U-turn | Hard | 31 Jan 21 |
 56 | [max path sum in Binary Tree](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/max_sum_path.cpp) | max branch_sum, max_sum from every node | Hard | 31 Jan 21 |
 57 | [flatten a tree into sorted linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/13%20Binary%20Search%20Trees/flatten_BST.cpp) | postorder, return head and tail | Hard | 01 Feb 21 |
+58 | [Heap Sort](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/14%20Heaps/heapsort.cpp) | heapify, sort from right to left | Easy | 10 Feb 21 |
