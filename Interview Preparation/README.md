@@ -38,9 +38,9 @@ S.No. | Topic Name| Status | Date Completed|
 34 | Challenges Stacks, Queue, Deque | not done | |
 35 | Binary Tree | done | 31 Jan 21 |
 36 | Binary Search Tree | done | 03 Feb 21 |
-37 | Challenges Trees | not done | |
-38 | Heaps | not done | |
-39 | Challenges Heaps | not done | |
+37 | Challenges Trees | done | 10 Feb 21 |
+38 | Heaps | done | 11 Feb 21 |
+39 | Challenges Heaps | done | 11 Feb 21 |
 40 | Hashing/Hashtable | not done | |
 41 | Problem Solving using Hashing | not done | |
 42 | Tries | not done | |
