@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Heap Sort | heapify, sort right to left, O(nlogn) | [view](heapsort.cpp)
 6 | Join ropes | minHeap push, pop | [view](join_ropes.cpp)
 7 | Merge K sorted arrays | minHeap {data, {row, col}} | [view](merge_k_sorted_arrays.cpp)
+8 | kth smallest element in sorted matrix | maxHeap | [view](kth_smallest_sorted_matrix.cpp)
