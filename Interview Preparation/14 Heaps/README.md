@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | Join ropes | minHeap push, pop | [view](join_ropes.cpp)
 7 | Merge K sorted arrays | minHeap {data, {row, col}} | [view](merge_k_sorted_arrays.cpp)
 8 | kth smallest element in sorted matrix | maxHeap | [view](kth_smallest_sorted_matrix.cpp)
+9 | kth smallest element efficient | binary search + staircase search | [view](kth_smallest_sorted_matrix_efficient.cpp)
