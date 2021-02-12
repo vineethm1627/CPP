@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | longest consecutive subsequence | unordered_set, streak | [view](longest_consecutive_seq_us.cpp)
 6 | min pattern contained window | freq, sliding window technique, useless char removal | [view](min_window_substring.cpp)
 7 | count of right angled triangles | hashmap, same-x, same_y, pnc | [view](right_angled_triangle.cpp)
+8 | vertical order print of a Binary Tree | hashmap {horiz dist from root node, vector of nodes} | [view](vertical_order_print.cpp)
