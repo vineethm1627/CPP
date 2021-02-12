@@ -2,4 +2,5 @@
 
 SNo | Name | Logic Used | Link |
 ----|------|------------|------|
-1 | Merge Sort arrays | divide and conquer | [view](merge_sort_arrays.cpp)
+1 | Merge Sort array | divide and conquer | [view](merge_sort_arrays.cpp)
+2 | Merge Sort Linked List | midpoint, divide and conquer | [view](merge_sort_linked_list.cpp)
