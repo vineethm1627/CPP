@@ -6,3 +6,4 @@ SNo | Name | Logic Used | Link |
 2 | Merge Sort Linked List | midpoint, divide and conquer | [view](merge_sort_linked_list.cpp)
 3 | house allocation | greedy algo, sort STL | [view](allocation_kickstart.cpp) 
 4 | quick sort | partition, last element as pivot | [view](quicksort.cpp)
+5 | counting sort | freq array | [view](counting_sort.cpp)
