@@ -21,3 +21,4 @@ SNo | Name | Logic Used | Link |
 17 | shortest distance btw 2 nodes | LCA, sum of level of 2 nodes from LCA node | [view](shortest_distance_2_nodes.cpp)
 18 | sum at level K | BFS traversal and printing | [view](sum_level_K.cpp)
 19 | is Height balanced | pair{height, balanced}, postorder traversal | [view](is_height_balanced.cpp) 
+20 | Max level sum | BFS, level sum | [view](max_level_sum.cpp)
