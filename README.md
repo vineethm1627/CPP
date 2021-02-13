@@ -64,3 +64,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 57 | [flatten a tree into sorted linked list](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/13%20Binary%20Search%20Trees/flatten_BST.cpp) | postorder, return head and tail | Hard | 01 Feb 21 |
 58 | [Heap Sort](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/14%20Heaps/heapsort.cpp) | heapify, sort from right to left | Easy | 10 Feb 21 |
 59 | [max xor pair using TRIE](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/17%20Tries/max_xor_pair.cpp) | trie, left: 0, right: 0 | Medium | 13 Feb 21 |
+60 | [max subarray xor using TRIE](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/17%20Tries/max_xor_subarray.cpp) | max xor pair in cumulative xor array | Medium | 13 Feb 21 |
