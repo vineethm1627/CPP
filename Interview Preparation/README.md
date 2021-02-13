@@ -42,7 +42,7 @@ S.No. | Topic Name| Status | Date Completed|
 38 | Heaps | done | 11 Feb 21 |
 39 | Challenges Heaps | done | 11 Feb 21 |
 40 | Hashing/Hashtable | not done | |
-41 | Problem Solving using Hashing | not done | |
+41 | Problem Solving using Hashing | done | 13 Feb 21 |
 42 | Tries | done | 13 Feb 21 |
 43 | Challenges Hashing and Tries | not done | |
 44 | Greedy Algorithms | not done | |
