@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | quick sort | partition, last element as pivot | [view](quicksort.cpp)
 5 | counting sort | freq array | [view](counting_sort.cpp)
 6 | bucket sort | array of vector | [view](bucket_sort.cpp)
+7 | DNF sort | 3 way partition | [view](DNF_sort.cpp)
