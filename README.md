@@ -66,3 +66,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 59 | [max xor pair using TRIE](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/17%20Tries/max_xor_pair.cpp) | trie, left: 0, right: 0 | Medium | 13 Feb 21 |
 60 | [max subarray xor using TRIE](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/17%20Tries/max_xor_subarray.cpp) | max xor pair in cumulative xor array | Medium | 13 Feb 21 |
 61 | [count of rectangles using set](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/16%20Problem%20Solving%20using%20Hashing/rectangle_counting.cpp) | set traversal, custom compare | Easy | 13 Feb 21 |
+62 | [Sort strings based on keys](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/15%20Sorting%20Algorithms/sort_strings.cpp) | stringstream, custom compare | Easy | 15 Feb 21 |
