@@ -26,7 +26,7 @@ S.No. | Topic Name| Status | Date Completed|
 22 | Recursion-3 Quick Thinking | not done | |
 23 | Recursion-4 Subset Based | not done | |
 24 | Recursion-5 Backtracking | not done | |
-25 | More Sorting Techniques and Problems | not done | |
+25 | More Sorting Techniques and Problems | done | 15 Feb 21 |
 26 | Challenges Recursion | not done | |
 27 | Challenges Backtracking | not done | |
 28 | Space Time Complexity | not done | |
