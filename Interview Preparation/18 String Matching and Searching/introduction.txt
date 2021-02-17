@@ -1,7 +1,7 @@
 Various Algorithms to be covered in this module:
 
     1. String searching using Trie
-    2. Robin Karp Algorithm (Rolling Hash)
+    2. Rabin Karp Algorithm (Rolling Hash)
     3. Knuth Morris Pratt Algorithm (Prefix Function)
     4. Z-Function
     5. Manacher's Algorithm
