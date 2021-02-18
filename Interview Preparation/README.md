@@ -51,7 +51,7 @@ S.No. | Topic Name| Status | Date Completed|
 47 | Challenges Dynamic Programming | not done | |
 48 | Graph Algorithms | not done | |
 49 | Challenges Graphs | not done | |
-50 | String Matching Algorithms | not done | |
+50 | String Matching Algorithms | done | 18 Feb 21 |
 51 | Interactive Problems | not done | |
 52 | Policy Based Data Structures (PBDS) | not done | |
 53 | Real Life Example Splitwise Algorithm Design | not done | |
