@@ -6,3 +6,4 @@ SNo | Name | Logic Used | Link |
 2 | Coin change problem | DP, table[amount+1], check all coins | [view](coin_change_DP.cpp)
 3 | Activity Selection | sort acc. to finishing time | [view](activity_selection.cpp)
 4 | connecting wires | sorting, connect closest dots | [view](connecting_dots.cpp)
+5 | biased standings ranks | counting sort, assigned nearest rank | [view](biased_standings.cpp)
