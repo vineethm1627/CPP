@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | connecting wires | sorting, connect closest dots | [view](connecting_dots.cpp)
 5 | biased standings ranks | counting sort, assigned nearest rank | [view](biased_standings.cpp)
 6 | load balancing | max job transfers from the current partition | [view](load_balancing.cpp)
+7 | kingdom of defence | max difference btw consec towers | [view](kingdom_defense.cpp)
