@@ -1,7 +1,7 @@
 /*
     Dutch National Flag, 3 way partitioning.
     Sort an array of 0s, 1s and 2s.
-    T(n) = O(1)
+    T(n) = O(n)
 */
 
 #include <iostream>
