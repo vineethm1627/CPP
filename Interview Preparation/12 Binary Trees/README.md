@@ -22,3 +22,4 @@ SNo | Name | Logic Used | Link |
 18 | sum at level K | BFS traversal and printing | [view](sum_level_K.cpp)
 19 | is Height balanced | pair{height, balanced}, postorder traversal | [view](is_height_balanced.cpp) 
 20 | Max level sum | BFS, level sum | [view](max_level_sum.cpp)
+21 | Iterative inorder traversal | stack | [view](inorder_ITERATIVE.cpp)
