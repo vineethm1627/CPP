@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | kingdom of defence, SPOJ | max difference btw consec towers | [view](kingdom_defense.cpp)
 8 | chopsticks pairing, Codechef | sort, adjacent pairing, skipping | [view](chopsticks.cpp)
 9 | expedition, SPOJ | sort, maxHeap | [view](expedition.cpp)
+10 | max circles | variation of activity selection | [view](max_circles.cpp)
