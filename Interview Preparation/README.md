@@ -45,7 +45,7 @@ S.No. | Topic Name| Status | Date Completed|
 41 | Problem Solving using Hashing | done | 13 Feb 21 |
 42 | Tries | done | 13 Feb 21 |
 43 | Challenges Hashing and Tries | not done | |
-44 | Greedy Algorithms | not done | |
+44 | Greedy Algorithms | done | 23 Feb 21 |
 45 | Challenges Greedy Algorithms | not done | |
 46 | Dynamic Programming | not done | |
 47 | Challenges Dynamic Programming | not done | |
