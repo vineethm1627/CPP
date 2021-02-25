@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | check array is sorted | compare 2 elements | [view](check_array_sorted.cpp)
 5 | binary search using recursion | if condition, func calls | [view](binary_search.cpp)
 6 | power(a, n) using recursion | simple recursion | [view](power.cpp)
+7 | multiply 2 numbers without * | addition, min, max arg | [view](multiply.cpp)
