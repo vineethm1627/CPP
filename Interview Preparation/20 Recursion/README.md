@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | print 1..n in incr/decr order | print, recursive call order | [view](increasing_decreasing_numbers.cpp) 
 4 | check array is sorted | compare 2 elements | [view](check_array_sorted.cpp)
 5 | binary search using recursion | if condition, func calls | [view](binary_search.cpp)
+6 | power(a, n) using recursion | simple recursion | [view](power.cpp)
