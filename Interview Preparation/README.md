@@ -21,7 +21,7 @@ S.No. | Topic Name| Status | Date Completed|
 17 | Challenges Bitmasking | not done | |
 18 | Number Theory Basics | not done | |
 19 | Challenges Number Theory | not done | |
-20 | Recursion-1 Basics | not done | |
+20 | Recursion-1 Basics | done | 25 Feb 21 |
 21 | Recursion-2 Implementation Based | not done | |
 22 | Recursion-3 Quick Thinking | not done | |
 23 | Recursion-4 Subset Based | not done | |
