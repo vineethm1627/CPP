@@ -1,0 +1,15 @@
+Interacting with the judge:
+    1. When we print output on the console/ screen, it is an expensive process.
+    2. Languages try to store the output in the output buffer.
+    3. Once the program terminates, then all the output is printed in one go.
+
+When interacting with the judge, once you print the output (it will act as input for the judge), you will receive an input from the judge.
+
+Hence, we cannot print all the output in one go, we use flushing commands.
+After printing, we flush the buffer on the screen ie.we tell the program, not to store the output in buffer.
+
+To flush the output:
+    fflush(stdout); (if using printf, scanf)
+    cout << flush; (if using cin, cout)
+    System.out.flush() in JAVA
+    stdout.flush() in Python
