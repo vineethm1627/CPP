@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | wave sort | comparison with prev and next element | [view](wave_sort.cpp)
 9 | sort strings based on keys | stringstream, custom compare | [view](sort_strings.cpp)
 10 | inversion count | merge sort | [view](inversion_count.cpp)
+11 | Bubble Sort | iterative with flag condition, recursion | [view](bubble_sort.cpp)
