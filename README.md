@@ -69,3 +69,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 62 | [Sort strings based on keys](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/15%20Sorting%20Algorithms/sort_strings.cpp) | stringstream, custom compare | Easy | 15 Feb 21 |
 63 | [Expedition SPOJ](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/19%20Greedy%20Algorithms/expedition.cpp) | sort, maxHeap, pick max fuel available | Hard | 20 Feb 21 | 
 64 | [Unique Zero Triplet Sum](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/unique_triplet_zero.cpp) | sorting, pair_sum 2 pointer approach | Medium | 24 Feb 21 |
+65 | [4 Sum Unique](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/fourSumUnique.cpp) | reduce to 2 sum, edge cases | Medium | 27 Feb 21 |
