@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | first occurrence linear search | first check and then make call | [view](first_occurrence.cpp)
 9 | last occurrence linear search | first make calls, then check | [view](last_occurrence.cpp)
 10 | all occurrences linear search | store and make calls | [view](all_occurrences.cpp)
+11 | fast power, O(logn) | even / odd square, store res | [view](fast_power.cpp)
