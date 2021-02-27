@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | last occurrence linear search | first make calls, then check | [view](last_occurrence.cpp)
 10 | all occurrences linear search | store and make calls | [view](all_occurrences.cpp)
 11 | fast power, O(logn) | even / odd square, store res | [view](fast_power.cpp)
+12 | bubble sort using recursion | recursive calls for both for loops | [view](bubble_sort_recursion.cpp)
