@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | multiply 2 numbers without * | addition, min, max arg | [view](multiply.cpp)
 8 | first occurrence linear search | first check and then make call | [view](first_occurrence.cpp)
 9 | last occurrence linear search | first make calls, then check | [view](last_occurrence.cpp)
+10 | all occurrences linear search | store and make calls | [view](all_occurrences.cpp)
