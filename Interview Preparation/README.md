@@ -22,7 +22,7 @@ S.No. | Topic Name| Status | Date Completed|
 18 | Number Theory Basics | not done | |
 19 | Challenges Number Theory | not done | |
 20 | Recursion-1 Basics | done | 25 Feb 21 |
-21 | Recursion-2 Implementation Based | not done | |
+21 | Recursion-2 Implementation Based | done | 28 Feb 21 |
 22 | Recursion-3 Quick Thinking | not done | |
 23 | Recursion-4 Subset Based | not done | |
 24 | Recursion-5 Backtracking | not done | |
