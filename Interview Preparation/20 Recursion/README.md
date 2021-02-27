@@ -9,4 +9,5 @@ SNo | Name | Logic Used | Link |
 5 | binary search using recursion | if condition, func calls | [view](binary_search.cpp)
 6 | power(a, n) using recursion | simple recursion | [view](power.cpp)
 7 | multiply 2 numbers without * | addition, min, max arg | [view](multiply.cpp)
-8 | first occurrence linear search | 2 ways, update arr address, explicit var | [view](first_occurrence.cpp)
+8 | first occurrence linear search | first check and then make call | [view](first_occurrence.cpp)
+9 | last occurrence linear search | first make calls, then check | [view](last_occurrence.cpp)
