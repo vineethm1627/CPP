@@ -71,3 +71,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 64 | [Unique Zero Triplet Sum](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/unique_triplet_zero.cpp) | sorting, pair_sum 2 pointer approach | Medium | 24 Feb 21 |
 65 | [4 Sum Unique](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/fourSumUnique.cpp) | reduce to 2 sum, edge cases | Medium | 27 Feb 21 |
 66 | [fast power/ exponentiation](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/20%20Recursion/fast_power.cpp) | recursion, bit masking | Easy | 27 Feb 21 |
+66 | [K Sum generalized](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/k_sum_generalized.cpp) | recursion, pair sum using 2 pointers | Hard | 28 Feb 21 |
