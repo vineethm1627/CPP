@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | queue using STL | STL | [view](queue_STL.cpp)
 4 | first non-repeating character | queue, freq table, front element | [view](first_non_repeat_chars.cpp)
 5 | stack using 2 queues | push and pop | [view](stack_using_2_queues.cpp)
+6 | queue operator overloading | +, add 2 queues | [view](queue_operator_overloading.cpp)
