@@ -23,3 +23,4 @@ SNo | Name | Logic Used | Link |
 19 | is Height balanced | pair{height, balanced}, postorder traversal | [view](is_height_balanced.cpp) 
 20 | Max level sum | BFS, level sum | [view](max_level_sum.cpp)
 21 | Iterative inorder traversal | stack | [view](inorder_ITERATIVE.cpp)
+22 | char freq in order of occurrence | similar to hashmap output | [view](char_freq.cpp)
