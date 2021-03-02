@@ -15,9 +15,9 @@ void dnf_sort(int *arr, int n) {
     while(mid <= high) {
         if(arr[mid] == 0) 
             swap(arr[mid++], arr[low++]);
-        if(arr[mid] == 1)
+        else if(arr[mid] == 1)
             mid++;
-        if(arr[mid] == 2) 
+        else 
             swap(arr[mid], arr[high--]);
     }
 }
