@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | chopsticks pairing, Codechef | sort, adjacent pairing, skipping | [view](chopsticks.cpp)
 9 | expedition, SPOJ | sort, maxHeap | [view](expedition.cpp)
 10 | max circles | variation of activity selection | [view](max_circles.cpp)
+11 | minimize the tower heights | minimize max difference, can be negative | [view](minimize_heights.cpp)
