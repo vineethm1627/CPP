@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | expedition, SPOJ | sort, maxHeap | [view](expedition.cpp)
 10 | max circles | variation of activity selection | [view](max_circles.cpp)
 11 | minimize the tower heights | minimize max difference, can be negative | [view](minimize_heights.cpp)
+12 | minimize the tower heights | minimize max difference, cannot be negative | [view](minimize_heights_non_neg.cpp)
