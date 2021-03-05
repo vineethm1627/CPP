@@ -73,3 +73,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 66 | [fast power/ exponentiation](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/20%20Recursion/fast_power.cpp) | recursion, bit masking | Easy | 27 Feb 21 |
 66 | [K Sum generalized](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/k_sum_generalized.cpp) | recursion, pair sum using 2 pointers | Hard | 28 Feb 21 |
 67 | [minimize max diff in heights](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/19%20Greedy%20Algorithms/minimize_heights_non_neg.cpp) | min, max value, cannot be negative | Hard | 05 March 21 |
+68 | [Product array puzzle](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/product_array_puzzle.cpp) | suffix array, prefix variable | Easy | 05 March 21 |
