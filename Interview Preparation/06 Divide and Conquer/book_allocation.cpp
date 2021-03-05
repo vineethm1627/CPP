@@ -24,60 +24,72 @@
     2nd students : 90 (total = 90)
     Print max(113, 90)
 */
-#include <iostream>
-#include <climits>
+#include<bits/stdc++.h>
 using namespace std;
 
-bool isPossible(int arr[], int n, int m, int cur_min) {
-	int students = 1;
-	int pages_read = 0;
-
-	for(int i = 0; i < n; i++) {
-		if(pages_read + arr[i] > cur_min) {
-			students++;
-			pages_read = arr[i];
-			if(students > m)
-				return false;
-		}
-		else
-			pages_read += arr[i];
-	}
-	return true;
-}
-
-int findPages(int arr[], int n, int m) {
-	long sum = 0, ans = INT_MAX;
-	if(n < m)
-		return -1;
-	for(int i = 0; i < n; i++)
-		sum += arr[i];
-	// monotonic search space.
-	int start = arr[n - 1], end = sum;
-
-	while(start <= end) {
-		long mid = start + (end - start) / 2;
-		// each student reads pages <= mid [max upper_bound]
-		if(isPossible(arr, n, m, mid)) {
-			ans = min(ans, mid);
-			end = mid - 1;
-		}
-		else
-			start = mid + 1;
-	}
-	return ans;
-}
+class Solution {
+  public:
+  
+    bool isPossible(int arr[], int n, int m, int cur_min) {
+        int students = 1;
+        int pages_read = 0;
+        
+        for(int i = 0; i < n; ) {
+            if(pages_read + arr[i] <= cur_min) {
+                pages_read += arr[i];
+                i++;
+            }
+            else {
+                students++;
+                pages_read = 0;
+                if(students > m)
+                    return false;
+            }
+        }
+        return true;
+    }
+    
+    int findPages(int arr[], int n, int m) {
+        // base case
+        if(n < m) 
+            return -1;
+        
+        int result = INT_MAX;
+        int sum = 0;
+        for(int i = 0; i < n; i++)
+            sum += arr[i];
+        
+        // monotonic search space
+        int start = *max_element(arr, arr + n);
+        int end = sum;
+        while(start <= end) {
+            int mid = start + (end - start) / 2;
+            // each student reads atmost mid number of pages [max_upper_bound]
+            if(isPossible(arr, n, m, mid)) {
+                result = min(result, mid);
+                end = mid - 1;
+            }
+            else 
+                start = mid + 1;
+        }
+        return result;
+    }
+};
 
 int main() {
-	int T, n, m;
-	cin >> T;
-
-	while(T--) {
-		cin >> n >> m;
-		int arr[n];
-		for(int i = 0; i < n; i++)
-			cin >> arr[i];
-
-		cout << findPages(arr, n, m) << endl;
-	}
-	return 0;
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        int A[n];
+        for(int i=0;i<n;i++){
+            cin>>A[i];
+        }
+        int m;
+        cin>>m;
+        Solution ob;
+        cout << ob.findPages(A, n, m) << endl;
+    }
+    return 0;
 }
