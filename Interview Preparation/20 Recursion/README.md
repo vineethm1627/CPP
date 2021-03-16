@@ -16,3 +16,4 @@ SNo | Name | Logic Used | Link |
 12 | bubble sort using recursion | recursive calls for both for loops | [view](bubble_sort_recursion.cpp)
 13 | 2048 | number to word spelling | [view](2048.cpp)
 14 | string to int | bottom to top recursion | [view](string_to_int.cpp)
+15 | PI recursion | replace pi with 3.14 | [view](pi_recursion.cpp)
