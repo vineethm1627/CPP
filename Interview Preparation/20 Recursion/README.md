@@ -14,3 +14,4 @@ SNo | Name | Logic Used | Link |
 10 | all occurrences linear search | store and make calls | [view](all_occurrences.cpp)
 11 | fast power, O(logn) | even / odd square, store res | [view](fast_power.cpp)
 12 | bubble sort using recursion | recursive calls for both for loops | [view](bubble_sort_recursion.cpp)
+13 | 2048 | number to word spelling | [view](2048.cpp)
