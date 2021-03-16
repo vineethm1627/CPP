@@ -17,3 +17,4 @@ SNo | Name | Logic Used | Link |
 13 | 2048 | number to word spelling | [view](2048.cpp)
 14 | string to int | bottom to top recursion | [view](string_to_int.cpp)
 15 | PI recursion | replace pi with 3.14 | [view](pi_recursion.cpp)
+16 | number of ways to tile floor | fibonacci type recursion | [view](tiling_recursion.cpp)
