@@ -15,3 +15,4 @@ SNo | Name | Logic Used | Link |
 11 | fast power, O(logn) | even / odd square, store res | [view](fast_power.cpp)
 12 | bubble sort using recursion | recursive calls for both for loops | [view](bubble_sort_recursion.cpp)
 13 | 2048 | number to word spelling | [view](2048.cpp)
+14 | string to int | bottom to top recursion | [view](string_to_int.cpp)
