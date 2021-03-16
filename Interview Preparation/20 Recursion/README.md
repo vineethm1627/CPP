@@ -20,3 +20,4 @@ SNo | Name | Logic Used | Link |
 16 | number of ways to tile floor | fibonacci type recursion | [view](tiling_recursion.cpp)
 17 | ladder jumps | reach n by combination of 1 to k steps | [view](ladder_jumps.cpp)
 18 | friend pairing | ways to pair / single | [view](friend_pairing.cpp)
+19 | consecutive 1s in Binary strings | dp, fixing last bit | [view](consecutive_ones.cpp)
