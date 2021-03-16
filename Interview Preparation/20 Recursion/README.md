@@ -19,3 +19,4 @@ SNo | Name | Logic Used | Link |
 15 | PI recursion | replace pi with 3.14 | [view](pi_recursion.cpp)
 16 | number of ways to tile floor | fibonacci type recursion | [view](tiling_recursion.cpp)
 17 | ladder jumps | reach n by combination of 1 to k steps | [view](ladder_jumps.cpp)
+18 | friend pairing | ways to pair / single | [view](friend_pairing.cpp)
