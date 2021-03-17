@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | BFS traversal | queue, visited map | [view](BFS_traversal.cpp)   
 4 | Single source shortest path | unweighted graph, level order traversal | [view](single_source_shortest_path.cpp)
 5 | Snakes and ladders | BFS, calc next positions | [view](snakes_ladder.cpp)
+6 | DFS traversal | stack, recursion | [view](DFS_traversal.cpp)
