@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | DFS traversal | stack, recursion | [view](DFS_traversal.cpp)
 7 | connected components | DFS func calls count | [view](connected_components.cpp)
 8 | topological sorting | DFS, stack | [view](topological_sort_dfs.cpp)
+9 | topological sorting | BFS, queue | [view](topological_sort_bfs.cpp)
