@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Snakes and ladders | BFS, calc next positions | [view](snakes_ladder.cpp)
 6 | DFS traversal | stack, recursion | [view](DFS_traversal.cpp)
 7 | connected components | DFS func calls count | [view](connected_components.cpp)
+8 | topological sorting | DFS, stack | [view](topological_sort_dfs.cpp)
