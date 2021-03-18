@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | topological sorting | DFS, stack | [view](topological_sort_dfs.cpp)
 9 | topological sorting | BFS, queue | [view](topological_sort_bfs.cpp)
 10 | cycle detection, undirected graph | BFS, visited, parent array | [view](undirected_graph_tree.cpp)
+11 | cycle detection, undirected disconnected graph | BFS calls on unvisied nodes | [view](cycle_undirected_components.cpp)
