@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | connected components | DFS func calls count | [view](connected_components.cpp)
 8 | topological sorting | DFS, stack | [view](topological_sort_dfs.cpp)
 9 | topological sorting | BFS, queue | [view](topological_sort_bfs.cpp)
+10 | cycle detection, undirected graph | BFS, visited, parent array | [view](undirected_graph_tree.cpp)
