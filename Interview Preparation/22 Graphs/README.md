@@ -15,3 +15,4 @@ SNo | Name | Logic Used | Link |
 11 | cycle detection, undirected disconnected graph | BFS calls on unvisited nodes | [view](cycle_undirected_components.cpp)
 12 | cycle detection in directed graph | dfs, stack path, visited | [view](cycle_detection_directed_dfs.cpp)
 13 | cycle detection, directed disconnected graph | DFS calls on unvisited nodes | [view](cycle_directed_components.cpp)
+14 | cycle detection, undirected disconnected graph | DFS calls, visited, nbr != parent | [view](cycle_detection_dfs.cpp)
