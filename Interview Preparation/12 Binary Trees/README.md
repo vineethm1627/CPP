@@ -25,3 +25,4 @@ SNo | Name | Logic Used | Link |
 21 | Iterative inorder traversal | stack | [view](inorder_ITERATIVE.cpp)
 22 | char freq in order of occurrence | similar to hashmap output | [view](char_freq.cpp)
 23 | Segment Tree Sum Query | queries and updates, vector representation | [view](segment_tree_sumQuery.cpp)
+24 | Segment Tree Min Query | find min value in a range | [view](segment_tree_minQuery.cpp)
