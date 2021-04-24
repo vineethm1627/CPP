@@ -27,3 +27,4 @@ SNo | Name | Logic Used | Link |
 23 | Segment Tree Sum Query | queries and updates, vector representation | [view](segment_tree_sumQuery.cpp)
 24 | Segment Tree Min Query | find min value in a range | [view](segment_tree_minQuery.cpp)
 25 | Segment Tree Max Query | find max value in a range | [view](segment_tree_maxQuery.cpp)
+26 | Segment Tree Inversion Count | sum query, increasing order update | [view](segment_tree_InversionCount.cpp)
