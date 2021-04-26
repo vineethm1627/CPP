@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | sort strings based on keys | stringstream, custom compare | [view](sort_strings.cpp)
 10 | inversion count | merge sort | [view](inversion_count.cpp)
 11 | Bubble Sort | iterative with flag condition, recursion | [view](bubble_sort.cpp)
+12 | Heap Sort | maxHeap, swap top element with last position in array | [view](heap_sort.cpp)
