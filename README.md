@@ -77,3 +77,4 @@ S.No. | Question Name | Logic Used | Type | Date|
 69 | [next permutation array](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/next_permutation.cpp) | find req index, find swap val, reverse from i + 1 | Easy | 05 March 21 |
 70 | [Snakes and Ladders](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/22%20Graphs/snakes_ladder.cpp) | BFS, calculate next positions | Hard | 18 March 21 | 
 71 | [Segment Tree Sum Query](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/12%20Binary%20Trees/segment_tree_sumQuery.cpp) | update, query, vector representation | Hard | 19 April 21 |
+72 | [Rare ASCII and Prime Factors](https://github.com/vineethm1627/CPP/blob/master/Interview%20Preparation/01%20Arrays/rare_ascii_values.cpp) | sum of digits of prime factors | Medium | 28 April 21 |
