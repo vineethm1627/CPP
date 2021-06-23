@@ -17,3 +17,4 @@ SNo | Name | Logic Used | Link |
 13 | cycle detection, directed disconnected graph | DFS calls on unvisited nodes | [view](cycle_directed_components.cpp)
 14 | cycle detection, undirected disconnected graph | DFS calls, visited, nbr != parent | [view](cycle_undirected_dfs.cpp)
 15 | flood fill colouring in implicit graph | DFS calls in 4 directions | [view](flood_fill_colouring.cpp)
+16 | Rotten oranges | BFS in 4 directions | [view](rotten_oranges.cpp)
