@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | first non-repeating character | queue, freq table, front element | [view](first_non_repeat_chars.cpp)
 5 | stack using 2 queues | push and pop | [view](stack_using_2_queues.cpp)
 6 | queue operator overloading | +, add 2 queues | [view](queue_operator_overloading.cpp)
+7 | Generate numbers from set | level order traversal | [view](generate_numbers_set.cpp)
